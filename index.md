@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: course-multi
+layout: course-single
 ---
 
 # <a name="description">Overview</a>
@@ -11,17 +11,15 @@ layout: course-multi
 
 ## <a name="goals">Learning Goals</a>
 
-Upon completing this course, our goal is for you to be able to:
+Upon completing this course, my goal is for you to be able to:
 
-* Build computer programs to:
-  * Effectively solve realistic problems.
-  * Organize, analyze, and summarize realistic data sets.
-* Read, understand, and explain a computer program.
-* Understand and explain computation through:
-  * Thinking logically and precisely.
-  * Making and testing hypotheses.
-* Use modular components to decompose problems and assemble solutions.
-* Create abstract, generalized models from specific, complex examples.
+* use computational tools to visualize and summarize information in text documents,
+* calculate similarity metrics for documents in a corpus,
+* cluster similar documents with hierarchical algorithms,
+* learn topic models for documents and derive semantic closeness of words,
+* generate and understand sequence information found in text,
+* develop models for sentiment and structure analysis, and
+* explore computational methods for generating music and art.
 
 ## <a name="resources">Resources</a>
 
