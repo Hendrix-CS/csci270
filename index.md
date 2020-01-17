@@ -88,7 +88,7 @@ On these labs, you can work with a partner on the lab assignments. Their name mu
 
 | #  | Name | Points | Assigned | Due |
 |:--:|-----||:------:|:--------:|:---:|
-|1 | [Final Project]({{site.baseurl}}/projects/sample-project.html)  | 210  | Mar 19 | Apr 6 |
+|1 | [Final Project]({{site.baseurl}}/projects/project.html)  | 210  | Mar 19 | Apr 6 |
 
 You will have a final project in this course.
 Further details on the grading standards and handin instructions for each
