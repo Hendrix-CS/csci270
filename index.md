@@ -68,15 +68,15 @@ will receive at most half credit.
 | #  | Name | Assigned | Due |
 |:--:|-----||:--------:|:---:|
 |0 | [Student Survey](https://forms.gle/6ebsJiBCqhQm2dFB6) | Jan 17 | Jan 21 |
-|1 | [Creating a Corpus]({{site.baseurl}}/labs/sample-lab.html) | Jan 21 | Jan 23 |
-|2 | [Summary Statistics]({{site.baseurl}}/labs/sample-lab.html) | Jan 23 | Jan 30 |
-|3 | [Clouds and Drawings]({{site.baseurl}}/labs/sample-lab.html) | Jan 30 | Feb 6 |
-|4 | [Document Clustering]({{site.baseurl}}/labs/sample-lab.html) | Feb 6 | Feb 13 |
-|5 | [Topic Modeling]({{site.baseurl}}/labs/sample-lab.html) | Feb 20 | Feb 27 |
-|6 | [Sentiment Analysis]({{site.baseurl}}/labs/sample-lab.html) | Feb 27 | Mar 5 |
-|7 | [Detecting and Generating Language]({{site.baseurl}}/labs/sample-lab.html) | Mar 5 | Mar 12 |
-|8 | [Deep Dreams]({{site.baseurl}}/labs/sample-lab.html) | Mar 19 | Mar 31 |
-|9 | [Lullabies]({{site.baseurl}}/labs/sample-lab.html) | Apr 9 | Apr 21 |
+|1 | [Creating a Corpus]({{site.baseurl}}/labs/corpus.html) | Jan 21 | Jan 23 |
+|2 | [Summary Statistics]({{site.baseurl}}/labs/summary.html) | Jan 23 | Jan 30 |
+|3 | [Clouds and Drawings]({{site.baseurl}}/labs/clouds.html) | Jan 30 | Feb 6 |
+|4 | [Document Clustering]({{site.baseurl}}/labs/clustering.html) | Feb 6 | Feb 13 |
+|5 | [Topic Modeling]({{site.baseurl}}/labs/topics.html) | Feb 20 | Feb 27 |
+|6 | [Sentiment Analysis]({{site.baseurl}}/labs/sentiment.html) | Feb 27 | Mar 5 |
+|7 | [Detecting and Generating Language]({{site.baseurl}}/labs/markov.html) | Mar 5 | Mar 12 |
+|8 | [Deep Dreams]({{site.baseurl}}/labs/dreaming.html) | Mar 19 | Mar 31 |
+|9 | [Lullabies]({{site.baseurl}}/labs/lullabies.html) | Apr 9 | Apr 21 |
 
 Much of your experience with the techniques of
 computational humanities in this course will be through weekly labs.

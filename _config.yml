@@ -100,9 +100,15 @@ resources:
   - name: Calligraphr
     image: assets/images/calligraphr.jpg
     url: https://www.calligraphr.com/en/
+  - name: MuseScore
+    image: assets/images/musescore.png
+    url: https://musescore.com/
   - name: Sonic Pi
     image: assets/images/sonicpi.png
     url: https://sonic-pi.net/
+  - name: Graphviz
+    image: assets/images/graphviz.png
+    url: https://www.graphviz.org/
 
 extra-resources:
   - name: "How to Think Like a Computer Scientist: Interactive Edition"
