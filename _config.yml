@@ -37,18 +37,22 @@ navigation:
         url: '#goals'
       - page: Resources
         url: '#resources'
+  - page: Readings
+    url: '#readings'
   - page: In-Class Code
     url: '#inclasscode'
+  - page: Calendar
+    url: 'https://app.teamgantt.com/public/projects/calendar/2020-01-12?ids=1990087&projectIds=1990087&publicKeys=eh0JCy4TSjrP&userResourceIds=0'
   - title: Coursework
     subfolderitems:
-      - page: Homework and Quizzes
-        url: '#hwqz'
       - page: Labs
         url: '#labs'
-      - page: Projects
+      - page: Project
         url: '#projects'
       - page: Exams
         url: '#exams'
+      - page: Checkins
+        url: '#checkins'
       - page: Scale
         url: '#scale'
   - page: Commitments
@@ -90,12 +94,15 @@ resources:
   - name: Python 3
     image: assets/images/pythonlogo.png
     url: http://python.org
-  - name: Azure Notebooks
-    image: assets/images/azure.png
-    url: https://notebooks.azure.com/
-  - name: Pycharm
-    image: assets/images/pycharmlogo.png
-    url: https://www.jetbrains.com/pycharm/
+  - name: Anaconda
+    image: assets/images/anaconda.png
+    url: https://www.anaconda.com/distribution/
+  - name: Calligraphr
+    image: assets/images/calligraphr.jpg
+    url: https://www.calligraphr.com/en/
+  - name: Sonic Pi
+    image: assets/images/sonicpi.png
+    url: https://sonic-pi.net/
 
 extra-resources:
   - name: "How to Think Like a Computer Scientist: Interactive Edition"

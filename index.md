@@ -27,9 +27,19 @@ Upon completing this course, my goal is for you to be able to:
 
 {% include resources.html content=site.resources %}
 
-## <a name="additional-resources">Optional Resources</a>
+# <a name="readings">Readings</a>
 
-{% include resources.html content=site.extra-resources %}
+We will be using no textbook but instead supplemental material such as relevant
+web-pages for the course. Readings will be assigned before material will be
+covered in class. You are expected to review the material and come to class
+prepared. As readings are assigned, they will be posted here.
+
+| Date  | Reading |
+|:--:||-----|
+| Jan 21 | [Unicode](https://home.unicode.org/) |
+| | [UTF-8](https://en.wikipedia.org/wiki/UTF-8) |
+| | [Python Encodings](https://realpython.com/python-encodings-guide/) |
+| | [The Great Newline Schism](https://blog.codinghorror.com/the-great-newline-schism/) |
 
 # <a name="inclasscode">In-Class Code</a>
 
@@ -74,7 +84,7 @@ Each lab will be assigned in class with some time allotted to work through the m
 
 On these labs, you can work with a partner on the lab assignments. Their name must be listed on any code you hand in as joint work. A partnership should only turn in a **single copy** of the assignment. If students working as partners wish to turn in a lab late, both students must use a late day.
 
-## <a name="projects">Projects</a>: 210 points
+## <a name="projects">Project</a>: 210 points
 
 | #  | Name | Points | Assigned | Due |
 |:--:|-----||:------:|:--------:|:---:|
