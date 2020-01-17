@@ -13,13 +13,15 @@ layout: course-single
 
 Upon completing this course, my goal is for you to be able to:
 
-* use computational tools to visualize and summarize information in text documents,
-* calculate similarity metrics for documents in a corpus,
-* cluster similar documents with hierarchical algorithms,
-* learn topic models for documents and derive semantic closeness of words,
-* generate and understand sequence information found in text,
-* develop models for sentiment and structure analysis, and
-* explore computational methods for generating music and art.
+1. Understand methods for encoding and manipulating text, images, and sound.
+1. Use computational tools to visualize and summarize information in text documents.
+1. Calculate similarity metrics for documents in a corpus.
+1. Cluster similar documents with hierarchical algorithms.
+1. Learn topic models for documents and derive semantic closeness of words.
+1. Generate and understand sequence information found in text.
+1. Develop models for sentiment and structure analysis.
+1. Employ computational methods for generating music and art.
+1. Pursue independent explorations of advanced topics.
 
 ## <a name="resources">Resources</a>
 
@@ -29,23 +31,13 @@ Upon completing this course, my goal is for you to be able to:
 
 {% include resources.html content=site.extra-resources %}
 
-## Laptop Policy
-
-Please **do not bring laptops to lecture**. This may seem strange in a computer science class. But lab is the place where you will get plenty of experience working on the computer; lecture is a time for thinking and learning without the distraction of a computer.
-
-Exceptions may be made on a case-by-case basis if you can prove to me that you really do benefit from using your laptop to take notes.
-
-<hr>
-
 # <a name="inclasscode">In-Class Code</a>
 
 When we write code together in class, it will be posted here!
 
 | Date | Topic | Code |
 |:----:|------||-----||
-| F 30 Aug | Intro to Python | [Intro Notebook](https://pythonintro-yorgey.notebooks.azure.com/j/notebooks/PythonIntro.ipynb) |
-| W 4 Sep | More Math and Functions | [Box Math](https://boxmath-yorgey.notebooks.azure.com/j/notebooks/BoxMath.ipynb) |
-| F 6 Sep | Strings and Booleans | [Booleans](https://booleans-yorgey.notebooks.azure.com/j/notebooks/Strings%20and%20Booleans.ipynb)
+| T Aug 21 | Character Text Encodings | [UTF-8]() |
 
 <hr>
 # Coursework
@@ -61,54 +53,57 @@ exceptional circumstances (you get sick, travel for a game or family
 obligation, *etc.*). After you have used up your late days, late assignments
 will receive at most half credit.
 
-## <a name="hwqz">Homework and Quizzes</a>: 140 points
+## <a name="labs">Labs</a>: 500 points
 
 | #  | Name | Assigned | Due |
 |:--:|-----||:--------:|:---:|
-|0 | [Info Sheet](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | W Aug 28 | F Aug 30 |
-|1 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
-|2 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
-|3 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
+|0 | [Student Survey](https://forms.gle/6ebsJiBCqhQm2dFB6) | Jan 17 | Jan 21 |
+|1 | [Creating a Corpus]({{site.baseurl}}/labs/sample-lab.html) | Jan 21 | Jan 23 |
+|2 | [Summary Statistics]({{site.baseurl}}/labs/sample-lab.html) | Jan 23 | Jan 30 |
+|3 | [Clouds and Drawings]({{site.baseurl}}/labs/sample-lab.html) | Jan 30 | Feb 6 |
+|4 | [Document Clustering]({{site.baseurl}}/labs/sample-lab.html) | Feb 6 | Feb 13 |
+|5 | [Topic Modeling]({{site.baseurl}}/labs/sample-lab.html) | Feb 20 | Feb 27 |
+|6 | [Sentiment Analysis]({{site.baseurl}}/labs/sample-lab.html) | Feb 27 | Mar 5 |
+|7 | [Detecting and Generating Language]({{site.baseurl}}/labs/sample-lab.html) | Mar 5 | Mar 12 |
+|8 | [Deep Dreams]({{site.baseurl}}/labs/sample-lab.html) | Mar 19 | Mar 31 |
+|9 | [Lullabies]({{site.baseurl}}/labs/sample-lab.html) | Apr 9 | Apr 21 |
 
-There will often be short homework assignments to be completed over the weekend, assigned on Friday and due Wednesday, sometimes with a corresponding quiz at the beginning of class on Wednesday.
+Much of your experience with the techniques of
+computational humanities in this course will be through weekly labs.
+Each lab will be assigned in class with some time allotted to work through the materials, and will be due **in approximately one week**. All labs are weighted equally within the lab portion of your final grade.
 
-## <a name="labs">Labs</a>: 260 points
+On these labs, you can work with a partner on the lab assignments. Their name must be listed on any code you hand in as joint work. A partnership should only turn in a **single copy** of the assignment. If students working as partners wish to turn in a lab late, both students must use a late day.
 
-| #  | Name | Assigned | Due |
-|:--:|-----||:--------:|:---:|
-|1 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Aug 28-29 | Sep 4-5 |
-|2 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Sep 4-5 | Sep 11-12 |
-|3 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Sep 11-12 | Sep 18-19 |
-
-Much of your experience with programming in this course will be through weekly labs. Each lab will be assigned in lab with time allotted to work through the materials, and will be due **by the start of the following lab**. All labs are weighted equally within the lab portion of your final grade.
-
-On these labs, you will work with a partner on the lab assignments. Their name must be listed on any code you hand in as joint work. A partnership should only turn in a **single copy** of the assignment. If students working as partners wish to turn in a lab late, both students must use a late day.
-
-**Lab attendance is required**. Labs take place in the **Snoddy Computer Lab**, in the Bailey Library. As you go through the exterior door of the library, turn immediately to your left and enter the Snoddy Academic Resource Center. Continue through the door at the far end of the hall into the first computer lab, and then enter the second lab at the back.
-
-## <a name="projects">Projects</a>: 350 points
+## <a name="projects">Projects</a>: 210 points
 
 | #  | Name | Points | Assigned | Due |
 |:--:|-----||:------:|:--------:|:---:|
-|1 | [Sample Project]({{site.baseurl}}/projects/sample-project.html)  | 50  | Sep 21 | Sep 30 |
-|2 | [Sample Project]({{site.baseurl}}/projects/sample-project.html) | 100 | Oct 16 | Nov 1 |
-|3 | [Sample Project]({{site.baseurl}}/projects/sample-project.html) | 200 | Nov 18 | Final Exam Day |
+|1 | [Final Project]({{site.baseurl}}/projects/sample-project.html)  | 210  | Mar 19 | Apr 6 |
 
-You will have three projects in this course, one about every five weeks. These projects will cover concepts we have discussed in class and in labs, and will be due approximately one week after they are assigned.
-
-**You must work individually on the first two projects.** You may discuss concepts and ideas with your classmates, but the code you turn in must be your own. You will be graded not only on correctness, but also technique, documentation and evaluation of your solution. Further details on the grading standards and handin instructions for each project will be given when they are assigned.
+You will have a final project in this course.
+Further details on the grading standards and handin instructions for each
+project will be given when they are assigned.
 
 ## <a name="exams">Exams</a>: 250 points
 
-There will be three in-class exams, the first worth 50 points and the second and
-third worth 100 of your final grade. They will consist of short answer
-questions along with writing and debugging code.
+| #  | Topics | Points | Date |
+|:--:|-----||:------:|:----:|
+|1 | text encoding, data processing, fonts, word clouds, and clustering | 100 | Feb 18 |
+|2 | stemming, lemmatizing, topic modeling, sentiment analysis, POS tagging, and Markov models | 150 | Mar 17 |
 
-* Exam 1: Sep 20, covering functions, math, numerical data, conditionals, and binary encoding
-* Exam 2: Oct 16, covering input/output, while loops, lists, and strings
-* Exam 3: Nov 25, covering for loops, dictionaries, classes and objects
-
+There will be two in-class exams, the first worth 100 and the
+second worth 150 points of your final grade.
+They will consist of short answer questions along with writing and debugging code.
 There is no final exam; you will complete a final project instead, as described above under Projects.
+
+## <a name="checkins">Checkins and Participation</a>: 40 points
+
+Two times throughout the semester, you are expected to
+make an office hours appointment and check in with me about the course. Each checkin
+meeting will count for 20 points.
+This will be conversation and feedback about your current progress and understanding.
+These should be scheduled during the weeks shown
+on the [course calendar](https://app.teamgantt.com/public/projects/calendar/2020-01-12?ids=1990087&projectIds=1990087&publicKeys=eh0JCy4TSjrP&userResourceIds=0).
 
 ## <a name="scale">Grading Scale</a>
 
