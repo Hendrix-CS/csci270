@@ -58,6 +58,8 @@ to get the mappings correct for your programs.
 At the anaconda prompt with the `root` environment activated, type:
 
     pip install matplotlib
+    pip install pandas
+    pip install plotnine
     pip install scipy
     pip install numpy
     pip install nltk

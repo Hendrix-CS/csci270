@@ -40,6 +40,7 @@ prepared. As readings are assigned, they will be posted here.
 | | [UTF-8](https://en.wikipedia.org/wiki/UTF-8) |
 | | [Python Encodings](https://realpython.com/python-encodings-guide/) |
 | | [The Great Newline Schism](https://blog.codinghorror.com/the-great-newline-schism/) |
+| | [Texting in Ancient Mayan Hieroglyphs](https://www.neh.gov/humanities/2018/winter/feature/texting-in-ancient-mayan-hieroglyphs) |
 
 # <a name="inclasscode">In-Class Code</a>
 
