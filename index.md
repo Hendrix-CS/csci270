@@ -48,7 +48,7 @@ When we write code together in class, it will be posted here!
 
 | Date | Topic | Code |
 |:----:|------||-----||
-| T Aug 21 | Character Text Encodings | [UTF-8]() |
+| T Aug 21 | Character Text Encodings | [UTF-8](https://nbviewer.jupyter.org/url/hendrix-cs.github.io/csci270/notes/Character%20Encoding.ipynb) |
 
 <hr>
 # Coursework
