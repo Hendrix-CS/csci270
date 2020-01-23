@@ -44,7 +44,7 @@ prepared. As readings are assigned, they will be posted here.
 | Jan 23 | [Pandas](https://pandas.pydata.org/) |
 | | [plotnine](https://plotnine.readthedocs.io/en/stable/index.html) |
 | | [A Layered Grammar of Graphics](https://byrneslab.net/classes/biol607/readings/wickham_layered-grammar.pdf) |
-
+| | [english2.txt]({{site.baseurl}}/data/english2)
 # <a name="inclasscode">In-Class Code</a>
 
 When we write code together in class, it will be posted here!
