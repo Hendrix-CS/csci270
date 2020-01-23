@@ -41,6 +41,9 @@ prepared. As readings are assigned, they will be posted here.
 | | [Python Encodings](https://realpython.com/python-encodings-guide/) |
 | | [The Great Newline Schism](https://blog.codinghorror.com/the-great-newline-schism/) |
 | | [Texting in Ancient Mayan Hieroglyphs](https://www.neh.gov/humanities/2018/winter/feature/texting-in-ancient-mayan-hieroglyphs) |
+| Jan 23 | [Pandas](https://pandas.pydata.org/) |
+| | [plotnine](https://plotnine.readthedocs.io/en/stable/index.html) |
+| | [A Layered Grammar of Graphics](https://byrneslab.net/classes/biol607/readings/wickham_layered-grammar.pdf) |
 
 # <a name="inclasscode">In-Class Code</a>
 
@@ -48,7 +51,8 @@ When we write code together in class, it will be posted here!
 
 | Date | Topic | Code |
 |:----:|------||-----||
-| T Aug 21 | Character Text Encodings | [UTF-8](https://nbviewer.jupyter.org/url/hendrix-cs.github.io/csci270/notes/Character%20Encoding.ipynb) |
+| T Jan 21 | Character Text Encodings | [UTF-8](https://nbviewer.jupyter.org/url/hendrix-cs.github.io/csci270/notes/Character%20Encoding.ipynb) |
+| R Jan 23 | Data Visualization Day 1 | [Summary Statistics](https://nbviewer.jupyter.org/url/hendrix-cs.github.io/csci270/notes/Summary%20Statistics.ipynb) |
 
 <hr>
 # Coursework
@@ -70,7 +74,7 @@ will receive at most half credit.
 |:--:|-----||:--------:|:---:|
 |0 | [Student Survey](https://forms.gle/6ebsJiBCqhQm2dFB6) | Jan 17 | Jan 21 |
 |1 | [Creating a Corpus]({{site.baseurl}}/labs/corpus.html) | Jan 21 | Jan 23 |
-|2 | [Summary Statistics]({{site.baseurl}}/labs/summary.html) | Jan 23 | Jan 30 |
+|2 | [Summary Statistics]({{site.baseurl}}/labs/summary.html) | Jan 23 | Jan 31 |
 |3 | [Clouds and Drawings]({{site.baseurl}}/labs/clouds.html) | Jan 30 | Feb 6 |
 |4 | [Document Clustering]({{site.baseurl}}/labs/clustering.html) | Feb 6 | Feb 13 |
 |5 | [Topic Modeling]({{site.baseurl}}/labs/topics.html) | Feb 20 | Feb 27 |
