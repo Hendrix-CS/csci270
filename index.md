@@ -90,6 +90,11 @@ Each lab will be assigned in class with some time allotted to work through the m
 
 On these labs, you can work with a partner on the lab assignments. Their name must be listed on any code you hand in as joint work. A partnership should only turn in a **single copy** of the assignment. If students working as partners wish to turn in a lab late, both students must use a late day.
 
+### Class corpus
+
+Many of our labs will be using the corpus below that we collected in Lab 1.
+* [Corpus2020.zip](data/Corpus2020.zip)
+
 ## <a name="projects">Project</a>: 210 points
 
 | #  | Name | Points | Assigned | Due |
