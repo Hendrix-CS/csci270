@@ -44,7 +44,8 @@ prepared. As readings are assigned, they will be posted here.
 | Jan 23 | [Pandas](https://pandas.pydata.org/) |
 | | [plotnine](https://plotnine.readthedocs.io/en/stable/index.html) |
 | | [A Layered Grammar of Graphics](https://byrneslab.net/classes/biol607/readings/wickham_layered-grammar.pdf) |
-| | [english2.txt]({{site.baseurl}}/data/english2.txt)
+| | [english2.txt]({{site.baseurl}}/data/english2.txt) |
+| Jan 28 | [Zipf's Law](https://en.wikipedia.org/wiki/Zipf%27s_law) |
 
 # <a name="inclasscode">In-Class Code</a>
 
@@ -54,6 +55,8 @@ When we write code together in class, it will be posted here!
 |:----:|------||-----||
 | T Jan 21 | Character Text Encodings | [UTF-8](https://nbviewer.jupyter.org/url/hendrix-cs.github.io/csci270/notes/Character%20Encoding.ipynb) |
 | R Jan 23 | Data Visualization Day 1 | [Summary Statistics](https://nbviewer.jupyter.org/url/hendrix-cs.github.io/csci270/notes/Summary%20Statistics.ipynb) |
+| T Jan 28 | Data Visualization Day 2 | [Summary Statistics Day 2](https://nbviewer.jupyter.org/url/hendrix-cs.github.io/csci270/notes/Summary%20Statistics%20Day%202.ipynb) |
+
 
 <hr>
 # Coursework
