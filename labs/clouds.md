@@ -55,7 +55,7 @@ has a 50% chance of being displayed vertically.
 
 ### Sentence Drawing
 
-A [Sentence Drawing](http://www.triangulation.jp/2011/05/stefanie-posavec.html) can
+A [Sentence Drawing](http://www.stefanieposavec.com/writing-without-words) can
 be constructed from a document to visualize the flow and rhythm of the
 text. Implement the following algorithm and create a diagram for your
 document.
