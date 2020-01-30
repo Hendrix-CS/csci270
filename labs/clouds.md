@@ -5,7 +5,7 @@ num: 3
 worktitle: Clouds and Drawings
 ---
 
-# Overview
+## Overview
 
 Besides bar graphs and scatter plots, there have been many alternate creative methods
 for visualizing the statistical properties of a document. There is also a certain
@@ -28,8 +28,10 @@ and the lower case letters are near the [x-height](https://en.wikipedia.org/wiki
 
 Write a description of your font, discussing it in terms of the common
 [typeface categories](https://en.wikipedia.org/wiki/Typeface)
-of Serif, Sans-Serif, Script, Monospaced, and Display. If your font does not follow
-the standard above about the baseline, x-height, and cap-height, justify your creative choices.
+of Serif, Sans-Serif, Script, Monospaced, and Display.
+
+{% include note.html content="If your font does not follow
+the standard above about the baseline, x-height, and cap-height, justify your creative choices." %}
 
 Install this font on your computer, and use a Word Processing software to
 format your Poem in this font. (Google Docs cannot import new fonts.)
@@ -42,11 +44,16 @@ Book, using the font you created above.
 
 To get this to work, you will most likely have to [delete and reset the
 font cache](https://scentellegher.github.io/visualization/2018/05/02/custom-fonts-matplotlib.html) from `matplotlib`.
-This took me a while to get right, please stop by for help when you need it.
+
+{% include warning.html content="This took me a while to get right, please stop by for help when you need it." %}
+
+#### Adding color
 
 Use the `english2.txt` word list to change the color of the words in
 the cloud, where words that are not found in English are shown in
 Red, while those in English are shown in Black.
+
+#### Adding rotation
 
 The text of some elements in a Word Cloud is often rotated 90 degrees.
 Investigate [Text Rotation](https://matplotlib.org/examples/pylab_examples/text_rotation.html)
@@ -66,8 +73,8 @@ document.
         the sentence
     -   Turn right 90 degrees
 
-If your document is very large, only draw this image for the first
-section/chapter.
+{% include note.html content="If your document is very large, only draw this image for the first
+section/chapter." %}
 
 What insights on your document can you gather from this image?
 
