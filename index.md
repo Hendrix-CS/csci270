@@ -44,8 +44,13 @@ prepared. As readings are assigned, they will be posted here.
 | Jan 23 | [Pandas](https://pandas.pydata.org/) |
 | | [plotnine](https://plotnine.readthedocs.io/en/stable/index.html) |
 | | [A Layered Grammar of Graphics](https://byrneslab.net/classes/biol607/readings/wickham_layered-grammar.pdf) |
-| | [english2.txt]({{site.baseurl}}/data/english2.txt) |
+| | [english2.txt](data/english2.txt) |
 | Jan 28 | [Zipf's Law](https://en.wikipedia.org/wiki/Zipf%27s_law) |
+| Jan 30 | [Understanding the Nuances of Typography Classification](https://www.toptal.com/designers/typography/typeface-classification) |
+| | [Typeface](https://en.wikipedia.org/wiki/Typeface) |
+| | [Wordle](http://static.mrfeinberg.com/bv_ch03.pdf) |
+| | [How the Word Cloud Generator Works](https://www.jasondavies.com/wordcloud/about/) |
+| | [Stop Word List](data/stop-word-list.txt) |
 
 # <a name="inclasscode">In-Class Code</a>
 

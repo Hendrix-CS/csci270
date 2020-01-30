@@ -1,0 +1,178 @@
+<html>
+<head>
+  <title>CSCI 270 - Lab 5 - Topic Modeling</title>
+  <link rel="stylesheet" type="text/css" title="Default" href="http://mark.goadrich.com/courses/style.css"> 
+</head>
+
+<body>
+<h1><a href="../index.html">CSCI 270</a> - Lab 5<br>Topic Modeling</h1>
+<hr>
+
+<h2>Description</h2>
+
+<h3>On a Mac</h3>
+Open up the terminal and type
+<p>
+<pre>
+conda env list
+</pre>
+<p>
+Hopefully you only see the "root" environment. Then type
+<p>
+<pre>
+source activate root
+</pre>
+<p>
+to get the mappings correct for your programs. Now type
+<p>
+<pre>
+python
+</pre>
+<p>
+and you should get the Anaconda version 3.X. Here is what I see
+<p>
+<pre>
+Python 3.6.1 |Anaconda 4.4.0 (x86_64)| (default, May 11 2017, 13:04:09)
+[GCC 4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+</pre>
+<p>
+Now in the python console, type
+<p>
+<pre>
+import nltk
+nltk.download()
+</pre>
+<p>
+Use this GUI to find the WordNet corpus and download it.
+<p>
+Next, exit out of python, back to the terminal. Time to install <a href="https://radimrehurek.com/gensim/install.html">gensim</a>.
+The easiest way I found was to type
+<p>
+<pre>
+easy_install -U gensim
+</pre>
+<p>
+
+
+<h3>On a Windows Machine</h3>
+Open up the Anaconda Prompt and type
+<p>
+<pre>
+conda env list
+</pre>
+<p>
+Hopefully you only see the "root" environment. Then type
+<p>
+<pre>
+activate root
+</pre>
+<p>
+to get the mappings correct for your programs. Now type
+<p>
+<pre>
+python
+</pre>
+<p>
+and you should get the Anaconda version 3.X. Here is what I see
+<p>
+<pre>
+Python 3.6.1 |Anaconda 4.4.0 (x86_64)| (default, May 11 2017, 13:04:09)
+[GCC 4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+</pre>
+<p>
+Now in the python console, type
+<p>
+<pre>
+import nltk
+nltk.download()
+</pre>
+<p>
+Use this GUI to find the WordNet corpus and download it.
+<p>
+Next, exit out of python, back to the terminal. Time to install <a href="https://radimrehurek.com/gensim/install.html">gensim</a>.
+The easiest way I found for Windows was to type
+<p>
+<pre>
+pip install -U gensim
+</pre>
+<p>
+If this doesn't work, try
+<p>
+<pre>
+conda install -c anaconda gensim
+</pre>
+<p>
+
+<h3>Data Cleaning</h3>
+The subsequent steps again assume you have clean data with only tokens separated by 
+whitespace. Use the code from Lab 4 to load each document, and then save the cleaned
+version to a new directory of only clean text files, retaining the original file names.
+
+<h3>Stemming</h3>
+Use the nltk Stemming library to stem each word for each of the documents in the corpus.
+<p>
+Record the number of unique tokens before and after stemming.
+<p>
+Which document shrunk by the largest percentage?
+
+<h3>Lemmatizing</h3>
+Use Wordnet to find the most commonly used Lemma, its definition, and its hyponyms, for the following words:
+<ul>
+<li>sleeping
+<li>in
+<li>god
+<li>boats
+<li>walked
+<li>twisting
+<li>apple
+</ul>
+Do any of these words have antonyms found in WordNet?
+<p>
+Which two words in the above list are the most similar according to WordNet?
+<p>
+Which word has the largest hypernym closure (in other words, which word is the most specific?)
+
+<h3>Word Vectors</h3>
+Calculate the Word2Vec representation for the books corpus, and find the 10 most similar words to
+the following words:
+<ul>
+<li>sleep
+<li>in
+<li>god
+<li>boat
+<li>walk
+<li>twist
+<li>apple
+<li>hobbit
+</ul>
+Discuss your results, note in particular those you expected to see, and develop a hypothesis
+for those that are unexpected.
+<p>
+Find four main characters, each from a different books in our corpus. What 10 words are most
+similar to each of these according to the Word2Vec calculations? Research any words or 
+characters unfamiliar to you and discuss why they might be similar.
+<p>
+Test out the <b>man</b> is to <b>king</b> as <b>woman</b> is to <b>?</b> analogy using
+the books dataset.
+<p>
+Analyze two other analogies that test two different <a href="http://www.mhhe.com/socscience/english/spears/stu3/studisk/verbal_analogies/va_intro.htm">relationships</a> commonly found between 
+words in analogies.
+
+
+<h3>Latent Dirichlet Allocation</h3>
+Use the <a href="https://radimrehurek.com/gensim/models/ldamodel.html">LdaModel class</a> from gensim to find five topics for our books corpus. Discuss the topics 
+found and any patterns you see.
+<p>
+For each topic, use this model to find the document that is most relevant. Discuss the sensibility of this matching.
+<!--get_document_topics -->
+
+<h2>What to Hand In</h2>
+Turn in your .ipynb file to the Lab 5 directory on Moodle.
+<hr>
+<small>&copy; Mark Goadrich, Hendrix College</small>
+
+</body>

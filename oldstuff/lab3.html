@@ -1,0 +1,96 @@
+<html>
+<head>
+  <title>CSCI 270 - Lab 3 - Data Visualizing</title>
+  <link rel="stylesheet" type="text/css" title="Default" href="http://mark.goadrich.com/courses/style.css"> 
+</head>
+
+<body>
+<h1><a href="../index.html">CSCI 270</a> - Lab 3<br>Data Visualizing</h1>
+<hr>
+
+<h2>Description</h2>
+Our first attempt to summarize our documents is to calculate and visualize statistical
+information. Use a Jupyter Notebook to track your analysis of your data. Write the answers
+for each section inline with Markdown blocks, and section your document with Header blocks.
+Be sure to cite any outside sources you use for Python reminders and snippets of code.
+<p>
+<b>Repeat the following steps for both your poem and book documents.</b>
+<h3>General Statistics</h3>
+Open the file and load the text into memory. Calculate the following statistics:
+<ul>
+<li>How many total characters?
+<li>How many letters?
+<li>How many sentences?
+<li>How many tokens?
+<li>How many word types? (unique tokens)
+</ul>
+Your tokens should not include any punctuation, only alphanumeric characters.
+
+<h3>Frequency Counts</h3>
+Find the frequency counts for the letters in your document.
+Create a barplot to display this data, with the tick marks labeled with the appropriate letter.
+<p>
+Find the frequency counts for the lengths of tokens in your document.
+Create a barplot to display this data.
+<p>
+Find the frequency counts for the lengths of sentences in your document.
+Create a barplot to display this data.
+<p>
+Compare and contrast these two graphs.
+<h3>Reading Level</h3>
+Write a function to calculate the Flesch-Kincaid Grade Level Formula:
+<p>
+<a href=" https://readable.io/content/the-flesch-reading-ease-and-flesch-kincaid-grade-level/">
+<img src="https://readable.io/images/content/4_fkgl.png">
+</a>
+<p>
+Assess the reading level of your document using your function.
+Use the <b>number of vowels</b> in your document as a substitute for the total number of syllables.
+<p>
+Does this match your assumptions?
+<h3>Zipf's Law</h3>
+Find the frequency counts for the tokens in your document. Rank the tokens
+in descending order based on their counts. 
+<p>
+Create a log-log plot where
+the x-axis is the rank of the token, and the y axis is the frequency count for that token.
+<p>
+Add to your plot a line graph of Zipf's law, where the y value is the frequency count of the 
+top ranked token divided by the x value.
+<p>
+Discuss how closely your document follows Zipf's law.
+<p>
+Calculate the frequency of each of these frequency counts. What percent of your tokens are only found in the document once?
+These are known as <i><a href="https://en.wikipedia.org/wiki/Hapax_legomenon">hapax legomena</a></i> which means "read only once." When translating texts, these
+tokens are difficult to process because they lack repeated statistical context clues for their meaning.
+<h3>Word Clouds</h3>
+Use the code discussed in class to create a Word Cloud for your document.
+<p>
+The text of some elements in a Word Cloud is often rotated 90 degrees.
+Investigate <a href="https://matplotlib.org/examples/pylab_examples/text_rotation.html">
+Text Rotation</a> in matplotlib and incorporate it into your Word Cloud, so that
+each word has a 50% chance of being displayed vertically.
+<p>
+<h3>Sentence Drawing</h3>
+A <a href="http://www.triangulation.jp/2011/05/stefanie-posavec.html">Sentence Drawing</a>
+can be constructed from a document to visualize the flow and rhythm of the text. Implement
+the following algorithm and create a diagram for your document.
+<p>
+<ul>
+<li>Start at point 0,0, pointing north
+<li>For each sentence in your document
+<ul>
+<li>Draw a line forward where the length is the number of words in the sentence
+<li>Turn right 90 degrees
+</ul>
+</ul>
+<p>
+If your document is very large, only draw this image for the first section/chapter.
+<p>
+What insights on your document can you gather from this image?
+<h3>What to Hand In</h3>
+Turn in your .ipynb file to the Lab 3 directory on Moodle.
+<hr>
+<small>&copy; Mark Goadrich, Hendrix College</small>
+
+</body>

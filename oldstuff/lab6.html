@@ -1,0 +1,173 @@
+<html>
+<head>
+  <title>CSCI 270 - Lab 6 <b> Sentiment Understanding</title>
+  <link rel="stylesheet" type="text/css" title="Default" href="http://mark.goadrich.com/courses/style.css"> 
+</head>
+
+<body>
+<h1><a href="../index.html">CSCI 270</a> - Lab 6<br>Sentiment Understanding</h1>
+<hr>
+
+<h2>Description</h2>
+
+<h3>On a Mac</h3>
+Open up the terminal and type
+<p>
+<pre>
+conda env list
+</pre>
+<p>
+Hopefully you only see the "root" environment. Then type
+<p>
+<pre>
+source activate root
+</pre>
+<p>
+to get the mappings correct for your programs. Now type
+<p>
+<pre>
+python
+</pre>
+<p>
+and you should get the Anaconda version 3.X. Here is what I see
+<p>
+<pre>
+Python 3.6.1 |Anaconda 4.4.0 (x86_64)| (default, May 11 2017, 13:04:09)
+[GCC 4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+</pre>
+<p>
+Now in the python console, type
+<p>
+<pre>
+import nltk
+nltk.download()
+</pre>
+<p>
+Use this GUI to find the "book" link in the "Collections" tab and download it. This
+will load many datasets and libraries.
+<p>
+Also install the VADER library and collection.
+<p>
+Next, exit out of python, back to the terminal. Time to install more libraries.
+<p>
+<pre>
+pip install afinn
+pip install graphviz
+pip install google-api-python-client
+pip install google-cloud-language
+</pre>
+<p>
+Finally, follow the <a href="https://cloud.google.com/natural-language/docs/quickstart-client-libraries">Quickstart Instructions</a>
+to get the credentials and libraries installed for Google Cloud. Because we are accessing the
+API through Python, you should not have to install the Cloud Tools.
+
+
+<h3>On a Windows Machine</h3>
+Open up the Anaconda Prompt and type
+<p>
+<pre>
+conda env list
+</pre>
+<p>
+Hopefully you only see the "root" environment. Then type
+<p>
+<pre>
+activate root
+</pre>
+<p>
+to get the mappings correct for your programs. Now type
+<p>
+<pre>
+python
+</pre>
+<p>
+and you should get the Anaconda version 3.X. Here is what I see
+<p>
+<pre>
+Python 3.6.1 |Anaconda 4.4.0 (x86_64)| (default, May 11 2017, 13:04:09)
+[GCC 4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+</pre>
+<p>
+Now in the python console, type
+<p>
+<pre>
+import nltk
+nltk.download()
+</pre>
+<p>
+Use this GUI to find the "book" link in the "Collections" tab and download it. This
+will load many datasets and libraries.
+<p>
+Also install the VADER library and collection.
+<p>
+Next, exit out of python, back to the terminal. Time to install more libraries.
+<p>
+<pre>
+pip install afinn
+pip install graphviz
+pip install google-api-python-client
+pip install google-cloud-language
+
+</pre>
+<p>
+Finally, follow the <a href="https://cloud.google.com/natural-language/docs/quickstart-client-libraries">Quickstart Instructions</a>
+to get the credentials and libraries installed for Google Cloud. Because we are accessing the
+API through Python, you should not have to install the Cloud Tools.
+
+<h3>Sentiment Analysis</h3>
+Analyze your selected poem using the Sentiment Analysis tools AFINN and VADER.  Discuss which
+words have the largest effect on your overall sentiment score for the document.
+
+<h3>Part of Speech Tagging</h3>
+Train a Bigram Tagger (with a backup Unigram Tagger ( with a backup Default NN Tagger)) using 
+the labeled Brown corpus of text.
+<p>
+Use this tagger to find the
+part of speech for the bold words in the following sentences. How accurate are the taggings?
+<ul>
+<li>Unfortunately, they haven't been paying on time <b> recently </b>.
+<li>I'd like to thank you all <b> for </b> attending today's meeting.
+<li>Art lovers can visit the <b> Metropolitan Museum of Art </b> on the Upper Eastside next to Central Park.
+<li> <b> However </b>, there are a number of places and events that really must be seen and enjoyed if you are in London.
+<li>To experience the famous <b> eccentric </b> side of British life, make sure to visit Speakers' Corner in Hyde Park
+<li>Not only are London parks beautiful, <b> but </b> they may be one of the only places you can meet the British.
+<li>They were able to choose from a limited number of programs on three or four <b> channels </b>.
+<li>Another choice <b> might be </b> playing a video game on the computer or TV screen.
+<li>Gone are the days when a worker might sit <b> around </b> the staff room discussing last night's entertainment.
+<li>I <b> often </b> feel we've forgotten to communicate with our surroundings.
+</ul>
+<h3>Parsing</h3>
+
+Pick two sentences from this collection of <a href="https://thejohnfox.com/long-sentences/">65 
+Long Sentences in Literature</a>.
+<p>
+Use the Google Cloud API to parse these sentences and draw the resulting
+parse-tree using the graphvix library for Digraphs.
+<p>
+<b>CHANGE FOR SENTENCE LENGTH</b>
+<p>
+For the following <a href="http://thecopybot.com/write-long-sentences/">sentence</a>:
+<P>
+<pre>
+Gasper Hicks stared down at the dead teenager at the foot of his door and 
+realized he knew him; knew him as a boy, from the days when Gasper taught 
+Sunday school, knew him as a blonde, dirt-faced kid desperate for attention, 
+knew him as one of the dozen anxious children they bussed from the trailer park.
+</pre>
+<p>
+compare the parse trees generated by the 
+<a href="http://nlp.stanford.edu:8080/parser/">Stanford Parser</a> and 
+<a href="https://cloud.google.com/natural-language/">Google Cloud Natural Language</a>.
+What differences in structure and/or tagging do you find? Do you think
+these differences are significant?
+
+<h2>What to Hand In</h2>
+Turn in your .ipynb file to the Lab 6 directory on Moodle.
+<hr>
+<small>&copy; Mark Goadrich, Hendrix College</small>
+
+</body>

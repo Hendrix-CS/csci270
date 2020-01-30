@@ -1,0 +1,102 @@
+<html>
+<head>
+<meta charset="utf-8" />
+  <title>CSCI 270 - Lab 7 and 8</title>
+  <link rel="stylesheet" type="text/css" title="Default" href="http://mark.goadrich.com/courses/style.css"> 
+</head>
+
+<body>
+
+<h1><a href="../index.html">CSCI 270</a> - Lab 7 and 8<br>
+Markov Models</h1>
+<hr>
+<h3>Materials</h3>
+<ul>
+<li><a href="../data/book-markov/candide.txt">Candide</a> in French
+<li><a href="../data/book-markov/quijote.txt">Don Quijote</a> in Spanish
+<li><a href="../data/book-markov/wonderland.txt">Alice In Wonderland</a> in English
+<li><a href="../data/book-markov/zarathustra.txt">Also Sprach Zarathustra</a> in German
+<li><a href="http://nbviewer.jupyter.org/url/mark.goadrich.com/courses/csci270s18/code/Lab%207%20and%208.ipynb">Lab Starter Code</a>
+</ul>
+<h2>Lab 7</h2>
+<h3>Markov Chains</h3>
+When modern browsers like Chrome visit a webpage, there is sometimes an option to
+automatically translate the text into English from another language. How does
+the browser detect other languages? One way is to pass the text of the webpage through 
+prebuilt Markov chains for many languages, and determine which language has the 
+highest probability of generating this text.
+<p>
+Download the four classic books above, and learn the probabilities for a 
+Markov chain that models the adjacent letter patterns
+found in each of the given languages. We will ignore the header and footer text
+in the files, only focus on the actual book text. 
+Your states in the Markov chain will be each possible letter in any of
+the four languages and the space character. The Markov chain should be fully connected,
+so that any state can be followed by any other state. Use the concept of a 
+<a href="http://en.wikipedia.org/wiki/Pseudocount">pseudocount</a> to initialize every
+possible observation to be 1, then increment these counts for the adjacent pairs
+found in the text, and finally normalize your counts to be probabilities. 
+For simplicity, ignore all punctuation 
+and capitalization. You will
+need to incorporate log probabilities.
+<p>
+Use your learned Markov Chains to predict the language used in the following
+phrases. Clearly show the probabilities found for each of the four possible languages.
+<ul>
+<li>Where is the bathroom
+<li>Dónde está el baño
+<li>Wo ist die Toilette
+<li>Où se trouvent les toilettes
+<li>Kie estas la necesejo
+<li>Kde je toaleta
+<li>My hovercraft is full of eels
+<li>A légpárnás hajóm tele van angolnákkal
+<li>Puno ng palos ang aking hoberkrap
+<li>Gari langu linaloangama limejaa na mikunga
+<li>Mi aerodeslizador está lleno de anguilas
+<li>Mae fy hofrenfad yn llawn llyswennod
+<li>Mein Luftkissenfahrzeug ist voller Aale
+</ul>
+<p>
+<img src="images/markovlanguagepie.png" width="800">
+<p>
+
+<h2>Lab 8</h2>
+<h3>Hidden Markov Models</h3>
+We can also analyze languages and uncover syntactic properties using HMMs. 
+We can use the text from Alice in Wonderland and the Baum-Welsh Algorithm to learn the parameters 
+of a Hidden Markov Model with three
+hidden states. Again, treat each letter as a state, ignore punctuation and capitalization, 
+but retain spaces. Initialize
+your transition and emission probabilities randomly as discussed in class. 
+Treat each line of the text as a separate 
+sequence for training purposes.
+<p>
+<img src="images/HMMstructure.png" width="500">
+<p>
+Implement the FORWARD and VITERBI algorithm at the locations specified in the notebook.
+<p>
+What do you notice about the transition and emission probabilities of the states you 
+learned? Do they align with anything in English?
+<p>
+Use the Viterbi algorithm to determine the most probable
+path for the following phrases:
+<ul>
+<li>one does not simply walk into mordor
+<li>stop trying to make fetch happen its not going to happen
+<li>has anyone really been far even as decided to use even go want to do look more like
+</ul>
+<p>
+<img src="images/hmmletterstates.png" width="800">
+<p>
+<p>
+<img src="images/hmmhiddenstates.png" width="800">
+<p>
+<h3>Food for Thought</h3>
+Ideas similar to what we have examined in this lab can help us understand relationships between
+different languages, and recover information from
+<a href="http://www.npr.org/2014/09/30/352661301/certain-english-errors-may-decipher-clues-to-dying-languages">dying
+languages</a> or <a href="http://www.nasa.gov/sites/default/files/files/Archaeology_Anthropology_and_Interstellar_Communication_TAGGED.pdf">interstellar
+communication</a>. 
+</body>
+</html>
