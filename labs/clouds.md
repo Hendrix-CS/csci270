@@ -76,6 +76,21 @@ document.
 {% include note.html content="If your document is very large, only draw this image for the first
 section/chapter." %}
 
+If you record your `x` and `y` values in two lists, called `xs` and `ys`,
+the following code can be used to the create the diagram.
+
+    import pandas as pd
+    from plotnine import *
+
+    drawing = pd.DataFrame({"x":xs, "y":ys, "time":range(len(xs))})
+    ggplot(drawing, aes(x = "x", y = "y")) + \
+    geom_path(aes(color="time")) + theme_void() + \
+    theme(aspect_ratio=1)
+
+You should see an image like this:
+
+![sentence diagram]({{site.baseurl}}/assets/images/sentence_diagram.png){: .img-fluid}
+
 What insights on your document can you gather from this image?
 
 ### What to Hand In
