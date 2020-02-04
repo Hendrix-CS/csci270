@@ -51,6 +51,8 @@ prepared. As readings are assigned, they will be posted here.
 | | [Wordle](http://static.mrfeinberg.com/bv_ch03.pdf) |
 | | [How the Word Cloud Generator Works](https://www.jasondavies.com/wordcloud/about/) |
 | | [Stop Word List](data/stop-word-list.txt) |
+| Feb 4 | [tf-idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) |
+| | [Why does tf-idf use a log?](https://www.quora.com/Why-does-TF-IDF-use-a-log) |
 
 # <a name="inclasscode">In-Class Code</a>
 
