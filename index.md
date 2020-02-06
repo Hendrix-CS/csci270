@@ -53,6 +53,8 @@ prepared. As readings are assigned, they will be posted here.
 | | [Stop Word List](data/stop-word-list.txt) |
 | Feb 4 | [tf-idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) |
 | | [Why does tf-idf use a log?](https://www.quora.com/Why-does-TF-IDF-use-a-log) |
+| Feb 6 | [Cosine Similarity](https://en.wikipedia.org/wiki/Cosine_similarity) |
+| | [UPGMA](https://en.wikipedia.org/wiki/UPGMA) |
 
 # <a name="inclasscode">In-Class Code</a>
 
@@ -87,7 +89,7 @@ will receive at most half credit.
 |1 | [Creating a Corpus]({{site.baseurl}}/labs/corpus.html) | Jan 21 | Jan 23 |
 |2 | [Summary Statistics]({{site.baseurl}}/labs/summary.html) | Jan 23 | Jan 31 |
 |3 | [Clouds and Drawings]({{site.baseurl}}/labs/clouds.html) | Jan 30 | Feb 6 |
-|4 | [Document Clustering]({{site.baseurl}}/labs/clustering.html) | Feb 6 | Feb 13 |
+|4 | [Document Clustering](https://nbviewer.jupyter.org/url/hendrix-cs.github.io/csci270/labs/Lab%204%20-%20Document%20Clustering%202020.ipynb) | Feb 6 | Feb 13 |
 |5 | [Topic Modeling]({{site.baseurl}}/labs/topics.html) | Feb 20 | Feb 27 |
 |6 | [Sentiment Analysis]({{site.baseurl}}/labs/sentiment.html) | Feb 27 | Mar 5 |
 |7 | [Detecting and Generating Language]({{site.baseurl}}/labs/markov.html) | Mar 5 | Mar 12 |
