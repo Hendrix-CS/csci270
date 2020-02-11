@@ -55,6 +55,10 @@ prepared. As readings are assigned, they will be posted here.
 | | [Why does tf-idf use a log?](https://www.quora.com/Why-does-TF-IDF-use-a-log) |
 | Feb 6 | [Cosine Similarity](https://en.wikipedia.org/wiki/Cosine_similarity) |
 | | [UPGMA](https://en.wikipedia.org/wiki/UPGMA) |
+| Feb 11 | [Stemming Online](https://text-processing.com/demo/stem/) |
+| | [Porter Stemmer](http://people.scs.carleton.ca/~armyunis/projects/KAPI/porter.pdf) |
+| | [pyporter2](https://github.com/mdirolf/pyporter2) |
+| | [WordNet Online](http://wordnetweb.princeton.edu/perl/webwn) |
 
 # <a name="inclasscode">In-Class Code</a>
 
