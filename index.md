@@ -59,6 +59,11 @@ prepared. As readings are assigned, they will be posted here.
 | | [Porter Stemmer](http://people.scs.carleton.ca/~armyunis/projects/KAPI/porter.pdf) |
 | | [pyporter2](https://github.com/mdirolf/pyporter2) |
 | | [WordNet Online](http://wordnetweb.princeton.edu/perl/webwn) |
+| Feb 20 | [Word Embeddings](https://www.tensorflow.org/tutorials/text/word_embeddings) |
+| | [Word2Vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) |
+| | [Word2Viz](https://lamyiowce.github.io/word2viz/) |
+| | [GloVe](https://nlp.stanford.edu/projects/glove/) |
+| | [Gensim Word2Vec](https://radimrehurek.com/gensim/models/word2vec.html) |
 
 # <a name="inclasscode">In-Class Code</a>
 
