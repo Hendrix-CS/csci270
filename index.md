@@ -64,6 +64,13 @@ prepared. As readings are assigned, they will be posted here.
 | | [Word2Viz](https://lamyiowce.github.io/word2viz/) |
 | | [GloVe](https://nlp.stanford.edu/projects/glove/) |
 | | [Gensim Word2Vec](https://radimrehurek.com/gensim/models/word2vec.html) |
+| Feb 25 | [Beta Distribution Calculator](http://keisan.casio.com/exec/system/1180573226) |
+| | [Multinomial Distribution](https://en.wikipedia.org/wiki/Multinomial_distribution) |
+| | [Visualizing Dirichlet Distributions](http://blog.bogatron.net/blog/2014/02/02/visualizing-dirichlet-distributions/) |
+| | [Latent Dirichlet Allocation](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation) |
+| | [Probabilistic Topic Modeling](http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf) |
+| | [LDA Details](https://courses.engr.illinois.edu/cs598jhm/sp2010/Slides/Lecture06.pdf) |
+| | [Gensim Topic Models](https://radimrehurek.com/gensim/tut2.html) |
 
 # <a name="inclasscode">In-Class Code</a>
 
@@ -97,10 +104,10 @@ will receive at most half credit.
 |0 | [Student Survey](https://forms.gle/6ebsJiBCqhQm2dFB6) | Jan 17 | Jan 21 |
 |1 | [Creating a Corpus]({{site.baseurl}}/labs/corpus.html) | Jan 21 | Jan 23 |
 |2 | [Summary Statistics]({{site.baseurl}}/labs/summary.html) | Jan 23 | Jan 31 |
-|3 | [Clouds and Drawings]({{site.baseurl}}/labs/clouds.html) | Jan 30 | Feb 6 |
-|4 | [Document Clustering](https://nbviewer.jupyter.org/url/hendrix-cs.github.io/csci270/labs/Lab%204%20-%20Document%20Clustering%202020.ipynb) | Feb 6 | Feb 13 |
-|5 | [Topic Modeling]({{site.baseurl}}/labs/topics.html) | Feb 20 | Feb 27 |
-|6 | [Sentiment Analysis]({{site.baseurl}}/labs/sentiment.html) | Feb 27 | Mar 5 |
+|3 | [Clouds and Drawings]({{site.baseurl}}/labs/clouds.html) | Jan 30 | Feb 7 |
+|4 | [Document Clustering](https://nbviewer.jupyter.org/url/hendrix-cs.github.io/csci270/labs/Lab%204%20-%20Document%20Clustering%202020.ipynb) | Feb 6 | Feb 14 |
+|5 | [Topic Modeling]({{site.baseurl}}/labs/topic.html) | Feb 25 | Mar 3 |
+|6 | [Sentiment Analysis]({{site.baseurl}}/labs/sentiment.html) | Mar 3 | Mar 5 |
 |7 | [Detecting and Generating Language]({{site.baseurl}}/labs/markov.html) | Mar 5 | Mar 12 |
 |8 | [Deep Dreams]({{site.baseurl}}/labs/dreaming.html) | Mar 19 | Mar 31 |
 |9 | [Lullabies]({{site.baseurl}}/labs/lullabies.html) | Apr 9 | Apr 21 |
