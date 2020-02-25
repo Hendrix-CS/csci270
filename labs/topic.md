@@ -35,12 +35,12 @@ its hyponyms, for the following words:
 -   twisting
 -   apple
 
-* Do any of these words have antonyms found in WordNet?
+Do any of these words have antonyms found in WordNet?
 
-* Which two words in the above list are the most similar according to
+Which two words in the above list are the most similar according to
 WordNet?
 
-* Which word has the largest hypernym closure (in other words, which word
+Which word has the largest hypernym closure (in other words, which word
 is the most specific?)
 
 ### Word Vectors
@@ -58,18 +58,18 @@ Calculate the Word2Vec representation for the Books corpus, and find the
 -   apple
 -   hobbit
 
-* Discuss your results, note in particular those you expected to see, and
+Discuss your results, note in particular those you expected to see, and
 develop a hypothesis for those that are unexpected.
 
-* Find four main characters, each from a different books in our corpus.
+Find four main characters, each from a different books in our corpus.
 What 10 words are most similar to each of these according to the
 Word2Vec calculations? Research any words or characters unfamiliar to
 you and discuss why they might be similar.
 
-* Test out the **man** is to **king** as **woman** is to **?** analogy
+Test out the **man** is to **king** as **woman** is to **?** analogy
 using the books dataset.
 
-* Analyze two other analogies that test two different
+Analyze two other analogies that test two different
 [relationships](http://www.mhhe.com/socscience/english/spears/stu3/studisk/verbal_analogies/va_intro.htm)
 commonly found between words in analogies.
 
@@ -79,10 +79,10 @@ Use the [LdaModel
 class](https://radimrehurek.com/gensim/models/ldamodel.html) from gensim
 to find five topics for our books corpus.
 
-* Discuss the topics found and
+Discuss the topics found and
 any patterns you see.
 
-* For each topic, use this model to find the document that is most
+For each topic, use this model to find the document that is most
 relevant. Discuss the sensibility of this matching.
 
 ## What to Hand In

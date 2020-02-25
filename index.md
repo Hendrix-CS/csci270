@@ -82,6 +82,7 @@ When we write code together in class, it will be posted here!
 | R Jan 23 | Data Visualization Day 1 | [Summary Statistics](https://nbviewer.jupyter.org/url/hendrix-cs.github.io/csci270/notes/Summary%20Statistics.ipynb) |
 | T Jan 28 | Data Visualization Day 2 | [Summary Statistics Day 2](https://nbviewer.jupyter.org/url/hendrix-cs.github.io/csci270/notes/Summary%20Statistics%20Day%202.ipynb) |
 | R Jan 30 | Fonts and Word Clouds | [Word Clouds](https://nbviewer.jupyter.org/url/hendrix-cs.github.io/csci270/notes/Word%20Cloud%20In%20Class.ipynb) |
+| R Feb 20 | Stemming and Lemmatizing | [Stemming and Lemmatizing](https://nbviewer.jupyter.org/url/hendrix-cs.github.io/csci270/notes/Stemming%20and%20Lemmatization.ipynb) |
 
 <hr>
 # Coursework
