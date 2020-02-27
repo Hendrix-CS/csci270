@@ -71,6 +71,11 @@ prepared. As readings are assigned, they will be posted here.
 | | [Probabilistic Topic Modeling](http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf) |
 | | [LDA Details](https://courses.engr.illinois.edu/cs598jhm/sp2010/Slides/Lecture06.pdf) |
 | | [Gensim Topic Models](https://radimrehurek.com/gensim/tut2.html) |
+| Feb 27 | [Hu and Liu Opinion Lexicon](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#lexicon) |
+| | [AFINN Online](http://darenr.github.io/afinn/#) |
+| | [VADER Explained](http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf) |
+| | [NLTK Sentiment Library](http://www.nltk.org/api/nltk.sentiment.html) |
+| | [NLTK Sentiment How To](http://www.nltk.org/howto/sentiment.html) |
 
 # <a name="inclasscode">In-Class Code</a>
 
