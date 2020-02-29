@@ -44,7 +44,7 @@ inspiration for your own exploration of the concepts in this course.
 ## Proposal: 30 points
 
 The first step in your project is developing a proposal. This two-page
-document will be due at the beginning of class on March 1st. There are
+document will be due at the beginning of class on April 9th. There are
 three required sections of your proposal.
 
 ### Research Question 13
