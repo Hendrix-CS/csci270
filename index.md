@@ -115,9 +115,9 @@ will receive at most half credit.
 |2 | [Summary Statistics]({{site.baseurl}}/labs/summary.html) | Jan 23 | Jan 31 |
 |3 | [Clouds and Drawings]({{site.baseurl}}/labs/clouds.html) | Jan 30 | Feb 7 |
 |4 | [Document Clustering](https://nbviewer.jupyter.org/url/hendrix-cs.github.io/csci270/labs/Lab%204%20-%20Document%20Clustering%202020.ipynb) | Feb 6 | Feb 14 |
-|5 | [Topic Modeling]({{site.baseurl}}/labs/topic.html) | Feb 25 | Mar 3 |
-|6 | [Sentiment Analysis]({{site.baseurl}}/labs/sentiment.html) | Mar 3 | Mar 5 |
-|7 | [Detecting and Generating Language]({{site.baseurl}}/labs/markov.html) | Mar 5 | Mar 12 |
+|5 | [Topic Modeling]({{site.baseurl}}/labs/topic.html) | Feb 25 | Mar 4 |
+|6 | [Sentiment Analysis]({{site.baseurl}}/labs/sentiment.html) | Mar 3 | Mar 7 |
+|7 | [Detecting and Generating Language]({{site.baseurl}}/labs/markov.html) | Mar 6 | Mar 13 |
 |8 | [Deep Dreams]({{site.baseurl}}/labs/dreaming.html) | Mar 19 | Mar 31 |
 |9 | [Lullabies]({{site.baseurl}}/labs/lullabies.html) | Apr 9 | Apr 21 |
 
