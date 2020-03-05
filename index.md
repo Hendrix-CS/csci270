@@ -76,6 +76,10 @@ prepared. As readings are assigned, they will be posted here.
 | | [VADER Explained](http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf) |
 | | [NLTK Sentiment Library](http://www.nltk.org/api/nltk.sentiment.html) |
 | | [NLTK Sentiment How To](http://www.nltk.org/howto/sentiment.html) |
+| Mar 3 | [Why you should care about generative text](https://hackernoon.com/why-you-should-care-about-generative-text-52496cb74beb) |
+| | [NaNoGenMo](https://nanogenmo.github.io/) |
+| | [Botnik Predictive Writer](https://botnik.org/apps/writer/?source=589b43f09f1100d6a871cb9c3dda71a6) |
+| | [Harry Potter and the Portrait of what Looked Like a Large Pile of Ash](https://botnik.org/harry-potter-chapter/) |
 
 # <a name="inclasscode">In-Class Code</a>
 
