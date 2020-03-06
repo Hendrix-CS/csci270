@@ -12,6 +12,7 @@ worktitle: Detecting and Generating Language
 *   [Alice In Wonderland](../data/wonderland.txt) in English
 *   [Also Sprach Zarathustra](../data/zarathustra.txt) in German
 *   [Lab Starter Code](http://nbviewer.jupyter.org/url/hendrix-cs.github.io/csci270/notes/Lab%207%20Starter%20Code.ipynb)
+*   [latin2.txt](../data/latin2.txt)
 
 ## Detecting Language
 
@@ -44,3 +45,15 @@ When your model is working, you should get the following probabilities.
 ![](../assets/images/markovlanguagepie.png)
 
 ## Generating Language
+
+Use the Markov chain code we wrote in class to generate a random 200 word text from our corpus.
+This should be generated from a sequence of **words**.
+Reformat your generated text to have proper capitalization, line breaks, etc.
+You can choose whatever order you like, I suggest between 3 and 5, but the text must be somewhat
+intelligible and include pieces from at least three books.
+
+Use the Markov chain code we wrote in class to generate 4 random two-word spells as found in
+Harry Potter, from the words in [latin2.txt](../data/latin2.txt). You can generate more
+and pick your favorite 4. This should be generated using a
+sequence of **letters**. Again, I suggest using an order between 3 and 5.
+Write definitions for each of your spells describing their effects and how they should be used.
