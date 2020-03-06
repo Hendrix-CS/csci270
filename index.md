@@ -95,6 +95,7 @@ When we write code together in class, it will be posted here!
 | R Feb 20 | Word2Vec | [Word2Vec and Gensim](https://nbviewer.jupyter.org/url/hendrix-cs.github.io/csci270/notes/Word%20Similarity%202020.ipynb) |
 | T Feb 25 | Latent Dirichlet Allocation | [LDA Example](https://nbviewer.jupyter.org/url/hendrix-cs.github.io/csci270/notes/LDA%20Example%202020.ipynb) |
 | R Feb 27 | Sentiment Analysis | [Sentiment Analysis](https://nbviewer.jupyter.org/url/hendrix-cs.github.io/csci270/notes/Sentiment%20Analysis.ipynb) |
+| R Mar 5 | Markov Chains | [Markov Chain In Class](https://nbviewer.jupyter.org/url/hendrix-cs.github.io/csci270/notes/Markov%20Chain%20InClass.ipynb) |
 
 <hr>
 # Coursework
