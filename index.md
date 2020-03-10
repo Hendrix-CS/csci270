@@ -80,6 +80,9 @@ prepared. As readings are assigned, they will be posted here.
 | | [NaNoGenMo](https://nanogenmo.github.io/) |
 | | [Botnik Predictive Writer](https://botnik.org/apps/writer/?source=589b43f09f1100d6a871cb9c3dda71a6) |
 | | [Harry Potter and the Portrait of what Looked Like a Large Pile of Ash](https://botnik.org/harry-potter-chapter/) |
+| Mar 10 | [Huffman Encoding](https://en.wikipedia.org/wiki/Huffman_coding) |
+| | [Color Depth](https://en.wikipedia.org/wiki/Color_depth), [RGB Color Model](https://en.wikipedia.org/wiki/RGB_color_model) |
+| | [BMP](https://en.wikipedia.org/wiki/BMP_file_format), [GIF](https://en.wikipedia.org/wiki/BMP_file_format), [PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics) |
 
 # <a name="inclasscode">In-Class Code</a>
 
