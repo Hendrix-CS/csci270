@@ -42,7 +42,7 @@ Use your learned Markov Chains to predict the language used in the following phr
 
 When your model is working, you should get the following probabilities.
 
-![](../assets/images/markovlanguagepie.png)
+![](../assets/images/markovlanguagepie.png){: .img-fluid}
 
 ## Generating Language
 

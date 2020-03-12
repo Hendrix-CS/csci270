@@ -83,6 +83,12 @@ prepared. As readings are assigned, they will be posted here.
 | Mar 10 | [Huffman Encoding](https://en.wikipedia.org/wiki/Huffman_coding) |
 | | [Color Depth](https://en.wikipedia.org/wiki/Color_depth), [RGB Color Model](https://en.wikipedia.org/wiki/RGB_color_model) |
 | | [BMP](https://en.wikipedia.org/wiki/BMP_file_format), [GIF](https://en.wikipedia.org/wiki/BMP_file_format), [PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics) |
+| Mar 12 | [LZ77 Data Compression](https://towardsdatascience.com/how-data-compression-works-exploring-lz77-3a2c2e06c097) |
+| | [LZSS Improvements](http://web.eecs.umich.edu/~sugih/courses/eecs281/fall07/lectures/lecture11.pdf) |
+| | [Color Model Translator](http://colorizer.org/) |
+| | [JPEG Format](https://en.wikipedia.org/wiki/JPEG) |
+| | [YCbCr](https://medium.com/breaktheloop/what-is-ycbcr-964fde85eeb3) |
+
 
 # <a name="inclasscode">In-Class Code</a>
 
