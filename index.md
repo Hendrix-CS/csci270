@@ -161,7 +161,7 @@ project will be given when they are assigned.
 | #  | Topics | Points | Date |
 |:--:|-----||:------:|:----:|
 |1 | text encoding, data processing, fonts, word clouds, and clustering | 100 | Feb 18 |
-| ~~2~~ | ~~stemming, lemmatizing, topic modeling, sentiment analysis, POS tagging, and Markov models~~ | ~~150~~ | ~~Mar 17~~ |
+| 2 | ~~stemming, lemmatizing, topic modeling, sentiment analysis, POS tagging, and Markov models~~ | ~~150~~ | ~~Mar 17~~ |
 
 There will be ~~two~~ **one** in-class exam~~s~~, the first worth 100 ~~and the
 second worth 150~~ points of your final grade.
