@@ -132,8 +132,8 @@ will receive at most half credit.
 |5 | [Topic Modeling]({{site.baseurl}}/labs/topic.html) | Feb 25 | Mar 4 |
 |6 | [Sentiment Analysis]({{site.baseurl}}/labs/sentiment.html) | Mar 3 | Mar 7 |
 |7 | [Detecting and Generating Language]({{site.baseurl}}/labs/markov.html) | Mar 6 | Mar 13 |
-|8 | [Deep Dreams]({{site.baseurl}}/labs/dreaming.html) | Mar 19 | Mar 31 |
-|9 | [Lullabies]({{site.baseurl}}/labs/lullabies.html) | Apr 9 | Apr 21 |
+|8 | [Deep Dreams](https://deepdreamgenerator.com/) | Apr 2 | Apr 7 |
+|9 | [Lullabies](http://sonic-pi.net/) | Apr 9 | Apr 14 |
 
 Much of your experience with the techniques of
 computational humanities in this course will be through weekly labs.
@@ -161,10 +161,10 @@ project will be given when they are assigned.
 | #  | Topics | Points | Date |
 |:--:|-----||:------:|:----:|
 |1 | text encoding, data processing, fonts, word clouds, and clustering | 100 | Feb 18 |
-|2 | stemming, lemmatizing, topic modeling, sentiment analysis, POS tagging, and Markov models | 150 | Mar 17 |
+|~~2~~ | ~~stemming, lemmatizing, topic modeling, sentiment analysis, POS tagging, and Markov models~~ | ~~150~~ | ~~Mar 17~~ |
 
-There will be two in-class exams, the first worth 100 and the
-second worth 150 points of your final grade.
+There will be two in-class exams, the first worth 100 ~~and the
+second worth 150~~ points of your final grade.
 They will consist of short answer questions along with writing and debugging code.
 There is no final exam; you will complete a final project instead, as described above under Projects.
 
@@ -181,8 +181,8 @@ on the [course calendar](https://app.teamgantt.com/public/projects/calendar/2020
 
 | Score  | Grade  |
 |:------:|:------:|
-| 900-1000  | A   |
-| 800-899   | B   |
-| 700-799   | C   |
-| 600-699   | D   |
-| 0-599     | F   |
+| 750-850  | A   |
+| 650-749   | B   |
+| 550-649   | C   |
+| 450-549   | D   |
+| 0-449     | F   |
