@@ -156,7 +156,7 @@ Many of our labs will be using the corpus below that we collected in Lab 1.
 
 | #  | Name | Points | Assigned | Due |
 |:--:|-----||:------:|:--------:|:---:|
-|1 | [Final Project]({{site.baseurl}}/projects/project.html)  | 210  | Mar 19 | Apr 6 |
+|1 | [Final Project]({{site.baseurl}}/projects/project.html)  | 210  | Mar 19 | Apr 9 |
 
 You will have a final project in this course.
 Further details on the grading standards and handin instructions for each
