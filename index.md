@@ -109,6 +109,7 @@ When we write code together in class, it will be posted here!
 | T Feb 25 | Latent Dirichlet Allocation | [LDA Example](https://nbviewer.jupyter.org/url/hendrix-cs.github.io/csci270/notes/LDA%20Example%202020.ipynb) |
 | R Feb 27 | Sentiment Analysis | [Sentiment Analysis](https://nbviewer.jupyter.org/url/hendrix-cs.github.io/csci270/notes/Sentiment%20Analysis.ipynb) |
 | R Mar 5 | Markov Chains | [Markov Chain In Class](https://nbviewer.jupyter.org/url/hendrix-cs.github.io/csci270/notes/Markov%20Chain%20InClass.ipynb) |
+| R Apr 16 | Epidemiology | [SIR Compoartment Modeling](https://nbviewer.jupyter.org/url/hendrix-cs.github.io/csci270/notes/Epidemiology.ipynb) |
 
 <hr>
 # Coursework
@@ -167,7 +168,7 @@ project will be given when they are assigned.
 | #  | Topics | Points | Date |
 |:--:|-----||:------:|:----:|
 |1 | text encoding, data processing, fonts, word clouds, and clustering | 100 | Feb 18 |
-| 2 | ~~stemming, lemmatizing, topic modeling, sentiment analysis, POS tagging, and Markov models~~ | ~~150~~ | ~~Mar 17~~ |
+| 2 | ~~stemming, lemmatizing, topic modeling, sentiment analysis, and Markov models~~ | ~~150~~ | ~~Mar 17~~ |
 
 There will be ~~two~~ **one** in-class exam~~s~~, the first worth 100 ~~and the
 second worth 150~~ points of your final grade.
