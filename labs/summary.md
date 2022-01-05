@@ -8,7 +8,7 @@ worktitle: Summary Statistics
 ## Description
 
 Our first attempt to summarize our documents is to calculate and
-visualize statistical information. Use a Jupyter Notebook to track your
+visualize statistical information. Use a Kaggle Notebook to track your
 analysis of your data. Write the answers for each section inline with
 Markdown blocks, and section your document with Header blocks. Be sure
 to cite any outside sources you use for Python reminders and snippets of
@@ -28,7 +28,8 @@ statistics:
 -   How many word types? (unique tokens)
 
 Your tokens should not include any punctuation, only alphanumeric
-characters.
+characters. Based on your own intuitions and examination of your documents,
+devise and implement a definition of a sentence.
 
 ### Frequency Counts
 
@@ -39,10 +40,10 @@ appropriate letter.
 Find the frequency counts for the lengths of tokens in your document.
 Create a barplot to display this data.
 
-Find the frequency counts for the lengths of sentences in your document.
+Find the frequency counts for the numbers of tokens in the sentences in your document.
 Create a barplot to display this data.
 
-Compare and contrast these two graphs.
+Compare and contrast these graphs.
 
 ### Reading Level
 
@@ -78,4 +79,4 @@ clues for their meaning.
 
 ## What to Hand In
 
-Turn in your .ipynb file to the Lab 2 directory on Moodle.
+Share your Kaggle notebook with me by the deadline.
