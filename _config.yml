@@ -107,10 +107,10 @@ resources:
     image: assets/images/graphviz.png
     url: https://www.graphviz.org/
   - name: Context Free Art
-    image: assets/images/context_free_art.png
+    image: assets/images/context_free_art.PNG
     url: https://www.contextfreeart.org/
   - name: Ren'Py
-    image: assets/images/renpy.png
+    image: assets/images/renpy.PNG
     url: https://www.renpy.org/
   - name: MuseScore
     image: assets/images/musescore.png
