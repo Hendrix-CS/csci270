@@ -26,7 +26,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 number: CSCI 270
 title: Computational Humanities
-semester: Spring 2020
+semester: Spring 2022
 
 navigation:
   - title: Overview
@@ -87,28 +87,37 @@ instructors:
 offerings:
   - name: LECTURE 01
     loc: MCREY 315
-    time: TR 9:45am - 11:00am
-    instructor: goadrich
+    time: MWF 11:10am - 12:00pm
+    instructor: ferrer
 
 resources:
   - name: Python 3
     image: assets/images/pythonlogo.png
     url: http://python.org
-  - name: Anaconda
-    image: assets/images/anaconda.png
-    url: https://www.anaconda.com/distribution/
+  - name: Kaggle Kernels
+    image: assets/images/kaggle.png
+    url: https://www.kaggle.com/kernels
   - name: Calligraphr
     image: assets/images/calligraphr.jpg
     url: https://www.calligraphr.com/en/
-  - name: MuseScore
-    image: assets/images/musescore.png
-    url: https://musescore.com/
   - name: Sonic Pi
     image: assets/images/sonicpi.png
     url: https://sonic-pi.net/
   - name: Graphviz
     image: assets/images/graphviz.png
     url: https://www.graphviz.org/
+  - name: Context Free Art
+    image: assets/images/context_free_art.png
+    url: https://www.contextfreeart.org/
+  - name: Ren'Py
+    image: assets/images/renpy.png
+    url: https://www.renpy.org/
+  - name: MuseScore
+    image: assets/images/musescore.png
+    url: https://musescore.com/
+  - name: Anaconda
+    image: assets/images/anaconda.png
+    url: https://www.anaconda.com/distribution/
 
 extra-resources:
   - name: "How to Think Like a Computer Scientist: Interactive Edition"
