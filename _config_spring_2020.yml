@@ -97,24 +97,27 @@ resources:
   - name: Kaggle Kernels
     image: assets/images/kaggle.png
     url: https://www.kaggle.com/kernels
-  - name: Context Free Art
-    image: assets/images/context_free_art.PNG
-    url: https://www.contextfreeart.org/
-  - name: OpenCV
-    image: assets/images/opencv.png
-    url: https://opencv.org/
+  - name: Calligraphr
+    image: assets/images/calligraphr.jpg
+    url: https://www.calligraphr.com/en/
   - name: Sonic Pi
     image: assets/images/sonicpi.png
     url: https://sonic-pi.net/
-  - name: MuseScore
-    image: assets/images/musescore.png
-    url: https://musescore.com/
   - name: Graphviz
     image: assets/images/graphviz.png
     url: https://www.graphviz.org/
+  - name: Context Free Art
+    image: assets/images/context_free_art.PNG
+    url: https://www.contextfreeart.org/
   - name: Ren'Py
     image: assets/images/renpy.PNG
     url: https://www.renpy.org/
+  - name: MuseScore
+    image: assets/images/musescore.png
+    url: https://musescore.com/
+  - name: Anaconda
+    image: assets/images/anaconda.png
+    url: https://www.anaconda.com/distribution/
 
 extra-resources:
   - name: "How to Think Like a Computer Scientist: Interactive Edition"

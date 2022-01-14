@@ -12,145 +12,21 @@ layout: course-single
 ## <a name="goals">Learning Goals</a>
 
 Upon completing this course, my goal is for you to be able to:
-* Computationally analyze digital creative works comprised of text, images, and sound.
-* Visualize and summarize textual, musical, and visual information.
-* Measure and visualize similarity of digital creative works.
-* Employ algorithmic structures to synthesize original digital creative works.
+
+1. Understand methods for encoding and manipulating text, images, and sound.
+1. Use computational tools to visualize and summarize information in text documents.
+1. Calculate similarity metrics for documents in a corpus.
+1. Cluster similar documents with hierarchical algorithms.
+1. Learn topic models for documents and derive semantic closeness of words.
+1. Generate and understand sequence information found in text.
+1. Develop models for sentiment and structure analysis.
+1. Employ computational methods for generating music and art.
+1. Pursue independent explorations of advanced topics.
 
 ## <a name="resources">Resources</a>
 
 {% include resources.html content=site.resources %}
 
-# <a name="calendar">Calendar</a>
-
-| Date   |   Day   |   Topic/Activity           |   Assigned                                                       |   Due     |
-|  ---   |   ---   |        ---                 |     ---                                                          |   ---     |
-| 1/19   |   Weds  |                            | [Survey](https://forms.gle/QcKEsPYPYAfnsiAQ8)<br>[Lab 1: Creating a Corpus]({{site.baseurl}}/labs/corpus.html)
-| 1/21   |   Fri   |                            | Lab 2: Summary Statistics                                        | Lab 1     |
-| 1/24   |   Mon   |
-| 1/26   |   Weds  | 
-| 1/28   |   Fri   |                            | Lab 3: Document Clustering                                       | Lab 2     |
-| 1/31   |   Mon   |
-| 2/2    |   Weds  | 
-| 2/4    |   Fri   |                            | Lab 4: Topic Modeling                                            | Lab 3     |
-| 2/7    |   Mon   |
-| 2/9    |   Weds  | 
-| 2/11   |   Fri   |                            | Lab 5: Algorithmic Art                                           | Lab 4     |
-| 2/14   |   Mon   |
-| 2/16   |   Weds  | 
-| 2/18   |   Fri   |                            | Lab 6: Image Analysis                                            | Lab 5     |
-| 2/21   |   Mon   | **Winter Break - No class**
-| 2/23   |   Weds  | 
-| 2/25   |   Fri   |                            | Lab 7: Algorithmic Music                                         | Lab 6     |
-| 2/28   |   Mon   |
-| 3/2    |   Weds  | 
-| 3/4    |   Fri   |                            | Lab 8: Music Representation                                      | Lab 7     |
-| 3/7    |   Mon   |
-| 3/9    |   Weds  | 
-| 3/11   |   Fri   |                            | Lab 9: Music Analysis                                            | Lab 8     |
-| 3/14   |   Mon   |
-| 3/16   |   Weds  | 
-| 3/18   |   Fri   |                            |                                                                  | Lab 9     |
-| 3/21   |   Mon   | **Spring Break - No class**
-| 3/23   |   Weds  | **Spring Break - No class**
-| 3/25   |   Fri   | **Spring Break - No class**
-| 3/28   |   Mon   |                            | Lab 10: Sentiment Analysis          
-| 3/30   |   Weds  | 
-| 4/1    |   Fri   |                            | Lab 11: Visual Novel                                             | Lab 10     |
-| 4/4    |   Mon   |
-| 4/6    |   Weds  | 
-| 4/8    |   Fri   |                            |                                                                  | Lab 11     |
-| 4/11   |   Mon   |                            | Final Project: Proposal
-| 4/13   |   Weds  | 
-| 4/15   |   Fri   |                            |                                                                  | Final Project: Proposal |
-| 4/18   |   Mon   |                            | 
-| 4/20   |   Weds  | 
-| 4/22   |   Fri   |                            |                                                                  | Final Project: Progress Report |
-| 4/25   |   Mon   |                            | 
-| 4/27   |   Weds  | 
-| 4/29   |   Fri   |                            |                                                                  | Final Project: Progress Report |
-| 5/6    |   Fri 8:30-11:30 am|                                                                                    | Final Project: Presentation |
-
-# <a name="assessment">Assessment</a>
-
-## <a name="labs">Labs</a>
-
-A total of 11 labs will be assigned throughout the semester, approximately one lab per week. 
-Each submission will be assessed as either **Complete**, **Partially Complete** or **Missing**. The 
-criteria for these assessments will be given for each lab.
-
-| #  | Lab                                                                 | Assigned | Due      |
-|----|---------------------------------------------------------------------|----------|----------|
-| 1  | [Creating a Corpus]({{site.baseurl}}/labs/corpus.html)              | 1/19     | 1/21     |
-| 2  | Summary Statistics                                                  | 1/21     | 1/28     |
-| 3  | Document Clustering                                                 | 1/28     | 2/4      |
-| 4  | Topic Modeling                                                      | 2/4      | 2/11     |
-| 5  | Algorithmic Art                                                     | 2/11     | 2/18     |
-| 6  | Image Analysis                                                      | 2/18     | 2/25     |
-| 7  | Algorithmic Music                                                   | 2/25     | 3/4      |
-| 8  | Music Representation                                                | 3/4      | 3/11     |
-| 9  | Music Analysis                                                      | 3/11     | 3/18     |
-|10  | Sentiment Analysis                                                  | 3/28     | 4/1      |
-|11  | Visual Novel                                                        | 4/1      | 4/8      |
-
-## <a name="groupwork">In-Class Assignments</a>
-
-Many class periods will involve in-class group assignments, which will be hands-on activities relating either
-to a recently submitted lab or to gaining a deeper understanding of the course material.
-
-## <a name="finalproject">Final Project</a>
-
-The final project for this course may take one of two forms:
-1. You may apply a computational humanities tool to a dataset of your choice. 
-2. You may create an original creative digital work. It may involve any combination of text, images, and music
-that you wish. The creative work must have an algorithmic aspect at its core. 
-
-Either form of project will require submitting the following:
-* A project proposal.
-* An oral presentation in the final exam period for the course.
-* A paper, either analyzing your results or reflecting upon your creative work.
-* All code used in creating the project, sufficient to digitally reproduce your work.
-
-## Tokens
-
-Each student begins the semester with **three tokens**. A student may spend a token in order to:
-* **Extend** a deadline: An extended lab may be submitted by the start of the next class period after the
-  original due date. The instructor must be notified of this extension prior to the original deadline. 
-  Note that the final project may **not** be extended. 
-* **Revise** a completed lab: A lab assessed as **Partially Complete** may be revised and resubmitted up to one
-week after it has been graded.
-
-A student may earn a token by booking and attending an office hours appointment. Each student may earn up to 
-**three additional tokens** over the course of the semester from office hours visits.
-
-Each student will have a channel in the Team for CSCI 270 for tracking their tokens. To spend a token, a student 
-will add a message to the channel chat stating which project will be revised or extended. The message should include
-the number of tokens now remaining as well. After each office hours visit, the instructor will add a message stating the 
-new token total.
-
-## <a name="grading">Specifications Grading</a>
-
-* To earn an A in the course, a student will:
-  * **Complete** the final project
-  * **Complete** a minimum of 10 of the 11 labs, and at least **Partially Complete** the remaining lab.
-  * Participate actively in at least 90% of in-class assignments.
-* To earn a B in the course, a student will:
-  * One of the following:
-    * **Complete** the final project and a minimum of eight labs, and at least **Partially Complete** a minimum of two more labs.
-	* **Partially Complete** the final project, **Complete** a minimum of 10 labs, and **Partially Complete** the remaining lab.
-  * Participate actively in at least 80% of in-class assignments.
-* To earn a C in the course, a student will:
-  * One of the following:
-    * **Complete** the final project and a minimum of six labs, and at least **Partially Complete** a minimum of two more labs.
-	* **Partially Complete** the final project, **Complete** a minimum of eight labs, and at least **Partially Complete** a minimum of two more labs.
-  * Participate actively in at least 70% of in-class assignments.
-* To earn a D in the course, a student will:
-  * At least **Partially Complete** the final project and a minimum of six labs.
-  * Participate actively in at least 50% of in-class assignments.
-  
-
- 
-<!--
 # <a name="readings">Readings</a>
 
 We will be using no textbook but instead supplemental material such as relevant
@@ -313,4 +189,3 @@ on the [course calendar](https://app.teamgantt.com/public/projects/calendar/2020
 | 550-649   | C   |
 | 450-549   | D   |
 | 0-449     | F   |
--->
