@@ -100,7 +100,7 @@ to a recently submitted lab or to gaining a deeper understanding of the course m
 
 ## <a name="finalproject">Final Project</a>
 
-The final project for this course may take one of two forms:
+The [final project]({{site.baseurl}}/projects/project.html) for this course may take one of two forms:
 1. You may apply a computational humanities tool to a dataset of your choice. 
 2. You may create an original creative digital work. It may involve any combination of text, images, and music
 that you wish. The creative work must have an algorithmic aspect at its core. 

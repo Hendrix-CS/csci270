@@ -7,10 +7,16 @@ worktitle: Final Project
 
 ## Description
 
-A major portion of this course will be an in-depth exploration of
-computational humanities tools and algorithms. You and a partner will be
-researching and applying one such tool to a dataset of your choice. This
-will involve a proposal, presentation, paper, and code.
+The final project for this course may take one of two forms:
+1. You may apply a computational humanities tool to a dataset of your choice. 
+2. You may create an original creative digital work. It may involve any combination of text, images, and music
+that you wish. The creative work must have an algorithmic aspect at its core. 
+
+Either form of project will require submitting the following:
+* A project proposal.
+* An oral presentation in the final exam period for the course.
+* A paper, either analyzing your results or reflecting upon your creative work.
+* All code used in creating the project, sufficient to digitally reproduce your work.
 
 ### Sample Project Topics
 
@@ -41,6 +47,7 @@ inspiration for your own exploration of the concepts in this course.
 -   [Learning Rhyme pattern in
     poetry](http://www.aclweb.org/anthology/P11-2014)
 
+<!--
 ## Proposal: 30 points
 
 The first step in your project is developing a proposal. This two-page
@@ -122,3 +129,4 @@ results, use proper grammar and spelling, and use proper citations.
 Finally include any code and IPython documents along with your dataset.
 Your notebook should be well-organized including headers and Markdown
 blocks to denote the different sections of your analysis.
+-->
