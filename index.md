@@ -13,6 +13,7 @@ layout: course-single
 
 Upon completing this course, my goal is for you to be able to:
 * Computationally analyze digital creative works comprised of text, images, and sound.
+* Combine quantitative and qualitative analysis of a digital creative work.
 * Visualize and summarize textual, musical, and visual information.
 * Measure and visualize similarity of digital creative works.
 * Employ algorithmic structures to synthesize original digital creative works.
