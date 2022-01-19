@@ -26,8 +26,8 @@ Upon completing this course, my goal is for you to be able to:
 
 | Date   |   Day   |   Topic/Activity           |   Assigned                                                       |   Due     |
 |  ---   |   ---   |        ---                 |     ---                                                          |   ---     |
-| 1/19   |   Weds  |                            | [Survey](https://forms.gle/QcKEsPYPYAfnsiAQ8)<br>[Lab 1: Creating a Corpus]({{site.baseurl}}/labs/corpus.html)
-| 1/21   |   Fri   |                            | Lab 2: Summary Statistics                                        | Lab 1     |
+| 1/19   |   Weds  |  Introduction              | [Survey](https://forms.gle/QcKEsPYPYAfnsiAQ8)<br>[Lab 1: Creating a Corpus]({{site.baseurl}}/labs/corpus.html)
+| 1/21   |   Fri   |  [Python Encodings](https://realpython.com/python-encodings-guide/)<br>[The Great Newline Schism](https://blog.codinghorror.com/the-great-newline-schism/)<br>[Unicode](https://home.unicode.org/)<br>[UTF-8](https://en.wikipedia.org/wiki/UTF-8)<br>[Texting in Ancient Mayan Hieroglyphs](https://www.neh.gov/humanities/2018/winter/feature/texting-in-ancient-mayan-hieroglyphs) | Lab 2: Summary Statistics                                        | Lab 1     |
 | 1/24   |   Mon   |
 | 1/26   |   Weds  | 
 | 1/28   |   Fri   |                            | Lab 3: Document Clustering                                       | Lab 2     |
