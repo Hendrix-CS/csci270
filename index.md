@@ -27,11 +27,11 @@ Upon completing this course, my goal is for you to be able to:
 | Date   |   Day   |   Topic/Activity           |   Assigned                                                       |   Due     |
 |  ---   |   ---   |        ---                 |     ---                                                          |   ---     |
 | 1/19   |   Weds  |  Introduction              | [Survey](https://forms.gle/QcKEsPYPYAfnsiAQ8)<br>[Lab 1: Creating a Corpus]({{site.baseurl}}/labs/corpus.html)
-| 1/21   |   Fri   |  [Python Encodings](https://realpython.com/python-encodings-guide/)<br>[The Great Newline Schism](https://blog.codinghorror.com/the-great-newline-schism/)<br>[Unicode](https://home.unicode.org/)<br>[UTF-8](https://en.wikipedia.org/wiki/UTF-8)<br>[Texting in Ancient Mayan Hieroglyphs](https://www.neh.gov/humanities/2018/winter/feature/texting-in-ancient-mayan-hieroglyphs) | Lab 2: Summary Statistics                                        | Lab 1     |
-| 1/24   |   Mon   |
-| 1/26   |   Weds  | 
-| 1/28   |   Fri   |                            | Lab 3: Document Clustering                                       | Lab 2     |
-| 1/31   |   Mon   |
+| 1/21   |   Fri   |  [Python Encodings](https://realpython.com/python-encodings-guide/)<br>[The Great Newline Schism](https://blog.codinghorror.com/the-great-newline-schism/)<br>[Unicode](https://home.unicode.org/)<br>[UTF-8](https://en.wikipedia.org/wiki/UTF-8)<br>[Texting in Ancient Mayan Hieroglyphs](https://www.neh.gov/humanities/2018/winter/feature/texting-in-ancient-mayan-hieroglyphs) | Lab 2: [Summary Statistics](https://www.kaggle.com/gabrielferrer/csci-270-lab-2-summary-statistics) | Lab 1     |
+| 1/24   |   Mon   |  [Generators and Comprehensions](https://www.pythonlikeyoumeanit.com/Module2_EssentialsOfPython/Generators_and_Comprehensions.html)<br>[Zipf's Law](https://en.wikipedia.org/wiki/Zipf%27s_law)<br>[Markdown](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html)
+| 1/26   |   Weds  |  [Pandas](https://pandas.pydata.org/)
+| 1/28   |   Fri   |  [tf-idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)<br>[Why does tf-idf use a log?](https://www.quora.com/Why-does-TF-IDF-use-a-log) | Lab 3: Document Clustering                                       | Lab 2     |
+| 1/31   |   Mon   |  [Cosine Similarity](https://en.wikipedia.org/wiki/Cosine_similarity)<br>[UPGMA](https://en.wikipedia.org/wiki/UPGMA)
 | 2/2    |   Weds  | 
 | 2/4    |   Fri   |                            | Lab 4: Topic Modeling                                            | Lab 3     |
 | 2/7    |   Mon   |
@@ -80,19 +80,19 @@ A total of 11 labs will be assigned throughout the semester, approximately one l
 Each submission will be assessed as either **Complete**, **Partially Complete** or **Missing**. The 
 criteria for these assessments will be given for each lab.
 
-| #  | Lab                                                                 | Assigned | Due      |
-|----|---------------------------------------------------------------------|----------|----------|
-| 1  | [Creating a Corpus]({{site.baseurl}}/labs/corpus.html)              | 1/19     | 1/21     |
-| 2  | Summary Statistics                                                  | 1/21     | 1/28     |
-| 3  | Document Clustering                                                 | 1/28     | 2/4      |
-| 4  | Topic Modeling                                                      | 2/4      | 2/11     |
-| 5  | Algorithmic Art                                                     | 2/11     | 2/18     |
-| 6  | Image Analysis                                                      | 2/18     | 2/25     |
-| 7  | Algorithmic Music                                                   | 2/25     | 3/4      |
-| 8  | Music Representation                                                | 3/4      | 3/11     |
-| 9  | Music Analysis                                                      | 3/11     | 3/18     |
-|10  | Sentiment Analysis                                                  | 3/28     | 4/1      |
-|11  | Visual Novel                                                        | 4/1      | 4/8      |
+| #  | Lab                                                                                          | Assigned | Due      |
+|----|----------------------------------------------------------------------------------------------|----------|----------|
+| 1  | [Creating a Corpus]({{site.baseurl}}/labs/corpus.html)                                       | 1/19     | 1/21     |
+| 2  | [Summary Statistics](https://www.kaggle.com/gabrielferrer/csci-270-lab-2-summary-statistics) | 1/21     | 1/28     |
+| 3  | Document Clustering                                                                          | 1/28     | 2/4      |
+| 4  | Topic Modeling                                                                               | 2/4      | 2/11     |
+| 5  | Algorithmic Art                                                                              | 2/11     | 2/18     |
+| 6  | Image Analysis                                                                               | 2/18     | 2/25     |
+| 7  | Algorithmic Music                                                                            | 2/25     | 3/4      |
+| 8  | Music Representation                                                                         | 3/4      | 3/11     |
+| 9  | Music Analysis                                                                               | 3/11     | 3/18     |
+|10  | Sentiment Analysis                                                                           | 3/28     | 4/1      |
+|11  | Visual Novel                                                                                 | 4/1      | 4/8      |
 
 ## <a name="groupwork">In-Class Assignments</a>
 
