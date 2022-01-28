@@ -36,26 +36,26 @@ Upon completing this course, my goal is for you to be able to:
 | 2/4    |   Fri   |                            | Lab 4: Topic Modeling                                            | Lab 3     |
 | 2/7    |   Mon   |
 | 2/9    |   Weds  | 
-| 2/11   |   Fri   |                            | Lab 5: Algorithmic Art                                           | Lab 4     |
+| 2/11   |   Fri   |                            | Lab 5: Sentiment Analysis                                           | Lab 4     |
 | 2/14   |   Mon   |
 | 2/16   |   Weds  | 
-| 2/18   |   Fri   |                            | Lab 6: Image Analysis                                            | Lab 5     |
+| 2/18   |   Fri   |                            | Lab 6: Algorithmic Art                                            | Lab 5     |
 | 2/21   |   Mon   | **Winter Break - No class**
 | 2/23   |   Weds  | 
-| 2/25   |   Fri   |                            | Lab 7: Algorithmic Music                                         | Lab 6     |
+| 2/25   |   Fri   |                            | Lab 7: Image Analysis                                         | Lab 6     |
 | 2/28   |   Mon   |
 | 3/2    |   Weds  | 
-| 3/4    |   Fri   |                            | Lab 8: Music Representation                                      | Lab 7     |
+| 3/4    |   Fri   |                            | Lab 8: Algorithmic Music                                      | Lab 7     |
 | 3/7    |   Mon   |
 | 3/9    |   Weds  | 
-| 3/11   |   Fri   |                            | Lab 9: Music Analysis                                            | Lab 8     |
+| 3/11   |   Fri   |                            | Lab 9: Music Representation                                            | Lab 8     |
 | 3/14   |   Mon   |
 | 3/16   |   Weds  | 
 | 3/18   |   Fri   |                            |                                                                  | Lab 9     |
 | 3/21   |   Mon   | **Spring Break - No class**
 | 3/23   |   Weds  | **Spring Break - No class**
 | 3/25   |   Fri   | **Spring Break - No class**
-| 3/28   |   Mon   |                            | Lab 10: Sentiment Analysis          
+| 3/28   |   Mon   |                            | Lab 10: Music Analysis          
 | 3/30   |   Weds  | 
 | 4/1    |   Fri   |                            | Lab 11: Visual Novel                                             | Lab 10     |
 | 4/4    |   Mon   |
@@ -86,12 +86,12 @@ criteria for these assessments will be given for each lab.
 | 2  | [Summary Statistics](https://www.kaggle.com/gabrielferrer/csci-270-lab-2-summary-statistics) | 1/21     | 1/28     |
 | 3  | Document Clustering                                                                          | 1/28     | 2/4      |
 | 4  | Topic Modeling                                                                               | 2/4      | 2/11     |
-| 5  | Algorithmic Art                                                                              | 2/11     | 2/18     |
-| 6  | Image Analysis                                                                               | 2/18     | 2/25     |
-| 7  | Algorithmic Music                                                                            | 2/25     | 3/4      |
-| 8  | Music Representation                                                                         | 3/4      | 3/11     |
-| 9  | Music Analysis                                                                               | 3/11     | 3/18     |
-|10  | Sentiment Analysis                                                                           | 3/28     | 4/1      |
+| 5  | Sentiment Analysis                                                                           | 2/11     | 2/18     |
+| 6  | Algorithmic Art                                                                              | 2/18     | 2/25     |
+| 7  | Image Analysis                                                                               | 2/25     | 3/4      |
+| 8  | Algorithmic Music                                                                            | 3/4      | 3/11     |
+| 9  | Music Representation                                                                         | 3/11     | 3/18     |
+|10  | Music Analysis                                                                               | 3/28     | 4/1      |
 |11  | Visual Novel                                                                                 | 4/1      | 4/8      |
 
 ## <a name="groupwork">In-Class Assignments</a>
