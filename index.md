@@ -36,7 +36,7 @@ Upon completing this course, my goal is for you to be able to:
 | 2/4    |   Fri   |                            | Lab 4: [Sentiment Analysis](https://www.kaggle.com/gabrielferrer/lab-4-sentiment-analysis)                                            | Lab 3     |
 | 2/7    |   Mon   |
 | 2/9    |   Weds  | 
-| 2/11   |   Fri   |                            | Lab 5: Topic Modeling                                          | Lab 4     |
+| 2/11   |   Fri   |                            | Lab 5: [Topic Modeling](https://www.kaggle.com/gabrielferrer/lab-5-topic-modeling)                                         | Lab 4     |
 | 2/14   |   Mon   |
 | 2/16   |   Weds  | 
 | 2/18   |   Fri   |                            | Lab 6: Algorithmic Art                                            | Lab 5     |
@@ -85,8 +85,8 @@ criteria for these assessments will be given for each lab.
 | 1  | [Creating a Corpus]({{site.baseurl}}/labs/corpus.html)                                         | 1/19     | 1/21     |
 | 2  | [Summary Statistics](https://www.kaggle.com/gabrielferrer/csci-270-lab-2-summary-statistics)   | 1/21     | 1/28     |
 | 3  | [Document Clustering](https://www.kaggle.com/gabrielferrer/csci-270-lab-3-document-clustering) | 1/28     | 2/4      |
-| 4  | [Sentiment Analysis](https://www.kaggle.com/gabrielferrer/lab-4-sentiment-analysis)                                                                                 | 2/4      | 2/11     |
-| 5  | Topic Modeling                                                                             | 2/11     | 2/18     |
+| 4  | [Sentiment Analysis](https://www.kaggle.com/gabrielferrer/lab-4-sentiment-analysis)            | 2/4      | 2/11     |
+| 5  | [Topic Modeling](https://www.kaggle.com/gabrielferrer/lab-5-topic-modeling)                    | 2/11     | 2/18     |
 | 6  | Algorithmic Art                                                                                | 2/18     | 2/25     |
 | 7  | Image Analysis                                                                                 | 2/25     | 3/4      |
 | 8  | Algorithmic Music                                                                              | 3/4      | 3/11     |
