@@ -112,7 +112,7 @@ Shapes can also be repeated using recursion:
 startshape test
 
 shape spike {
-    SQUARE [b 0.5]
+    SQUARE [brightness 0.5]
     spike [x 0.5 size 0.95]
 }
 ```
@@ -123,14 +123,16 @@ Try out `spike`. Then answer the following questions:
 
 4. Add `y 0.5` to the recursive call. How does it change its behavior?
 
-5. Change the `size` parameter to `1.05`. How does it change its behavior?
+5. Remove `y 0.5`, then change the `size` parameter to `1.05`. How does it change its behavior?
+
+6. Change the `size` parameter back to `0.95', then add `rotate 15` to the recursive call. How does it change its behavior?
 
 ## Step 3: Research
 
 Browse the [Gallery](https://www.contextfreeart.org/gallery/). Select three
 pieces of art that you find appealing. For each one:
-6. Why do you find it appealing?
-7. How does it work? Peruse the [documentation](https://github.com/MtnViewJohn/context-free/wiki) to decode the various language constructs each example utilizes. Explain each novel language construct you encounter.
+7. Why do you find it appealing?
+8. How does it work? Peruse the [documentation](https://github.com/MtnViewJohn/context-free/wiki) to decode the various language constructs each example utilizes. Explain each novel language construct you encounter.
 
 **Note**: There were significant changes to the language syntax going to Version 3, which is the current version.
 Some of the gallery art uses Version 2. Read over the 
@@ -149,8 +151,8 @@ This inspiration is broadly conceived - you may seek to imitate a selection
 of shapes and/or colors from your contributed artwork. 
 
 Answer the following questions:
-8. How did you utilize each concept you utilized from the three examples you selected?
-9. In what way did you take inspiration from your contributed artwork?
+9. How did you utilize each concept you utilized from the three examples you selected?
+10. In what way did you take inspiration from your contributed artwork?
 
 ## To Submit via Teams
 
