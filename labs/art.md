@@ -125,7 +125,7 @@ Try out `spike`. Then answer the following questions:
 
 5. Remove `y 0.5`, then change the `size` parameter to `1.05`. How does it change its behavior?
 
-6. Change the `size` parameter back to `0.95', then add `rotate 15` to the recursive call. How does it change its behavior?
+6. Change the `size` parameter back to `0.95`, then add `rotate 15` to the recursive call. How does it change its behavior?
 
 ## Step 3: Research
 
