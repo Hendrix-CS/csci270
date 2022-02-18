@@ -109,7 +109,7 @@ produce?
 Shapes can also be repeated using recursion:
 
 ```
-startshape test
+startshape spike
 
 shape spike {
     SQUARE [brightness 0.5]
