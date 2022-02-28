@@ -42,7 +42,7 @@ Upon completing this course, my goal is for you to be able to:
 | 2/18   |   Fri   |                            | Lab 6: [Algorithmic Art]({{site.baseurl}}/labs/art.html)                                            | Lab 5     |
 | 2/21   |   Mon   | **Winter Break - No class**
 | 2/23   |   Weds  | 
-| 2/25   |   Fri   |                            | Lab 7: Image Analysis                                         | Lab 6     |
+| 2/25   |   Fri   | [OpenCV](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html) | Lab 7: [Image Analysis](https://www.kaggle.com/gabrielferrer/csci-270-lab-7) | Lab 6     |
 | 2/28   |   Mon   |
 | 3/2    |   Weds  | 
 | 3/4    |   Fri   |                            | Lab 8: Algorithmic Music                                      | Lab 7     |
