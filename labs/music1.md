@@ -51,7 +51,7 @@ For each piece, answer the following questions:
 
 Write a Sonic Pi program that takes inspiration from two distinct aspects of your piece and 
 at least one aspect of the other two selected pieces. The music produced should be 40-80 seconds
-in duration.
+in duration. It should also employ at least three distinct synthesizer sounds.
 
 ## To Submit
 * Answers to the questions above.
