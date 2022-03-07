@@ -45,7 +45,7 @@ Upon completing this course, my goal is for you to be able to:
 | 2/25   |   Fri   | [OpenCV](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html) | Lab 7: [Image Analysis](https://www.kaggle.com/gabrielferrer/csci-270-lab-7) | Lab 6     |
 | 2/28   |   Mon   |
 | 3/2    |   Weds  | 
-| 3/4    |   Fri   | [Sonic Pi Tutorial](https://sonic-pi.net/tutorial.html) <br> [Live Coding Education](https://sonic-pi.net/files/articles/Live-Coding-Education.pdf) | Lab 8: [Algorithmic Music]({{site.baseurl}}/labs/music1.html)          | Lab 7     |
+| 3/4    |   Fri   | [Sonic Pi Tutorial](https://sonic-pi.net/tutorial.html) <br> [Live Coding Education](https://sonic-pi.net/files/articles/Live-Coding-Education.pdf) <br> [Note to Frequency Chart](https://www.doctormix.com/docs/Note-To-Frequancy-Chart.jpg) | Lab 8: [Algorithmic Music]({{site.baseurl}}/labs/music1.html)          | Lab 7     |
 | 3/7    |   Mon   |
 | 3/9    |   Weds  | 
 | 3/11   |   Fri   |                            | Lab 9: Music Representation                                            | Lab 8     |
