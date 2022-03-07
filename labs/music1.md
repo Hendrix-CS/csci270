@@ -30,9 +30,15 @@ to your copy of the notebook.) Then answer the following questions:
 
 ## Sonic Pi, Part 1
 
-Write a Sonic Pi program inspired by an aspect of your instrumental piece. Use some of the
-notes you identified in the previous part. It need not replicate that aspect, but it should
-be in some way related to it. The music produced should be 10-20 seconds in duration.
+Write a Sonic Pi program inspired by an aspect of your instrumental piece:
+* It need not replicate that aspect, but it should be in some way related to it. 
+* Use some of the notes you identified in the previous part. 
+* The music produced should be 10-20 seconds in duration.
+
+Answer the following questions:
+1. What is the aspect of your instrumental piece from which you drew inspiration?
+
+2. How did you express that aspect in your program?
 
 ## Visualizing Additional Music
 
@@ -49,10 +55,18 @@ For each piece, answer the following questions:
 
 ## Sonic Pi, Part 2
 
-Write a Sonic Pi program that takes inspiration from two distinct aspects of your piece and 
-at least one aspect of the other two selected pieces. The music produced should be 40-80 seconds
-in duration. It should also employ at least three distinct synthesizer sounds.
+Write a Sonic Pi program that:
+* Takes inspiration from two distinct aspects of your piece and at least one aspect of the other two selected pieces. 
+* The music produced should be 40-80 seconds in duration. 
+* It should employ at least three distinct synthesizer sounds.
+* At least one of the synthesizer sounds should employ modifications to the `attack`, `decay`,
+  `sustain`, `sustain_level`, or `release` parameters.
+
+Answer the following questions:
+1. What are the four aspects of the instrumental pieces from which you drew inspiration?
+
+2. How did you express those aspects in your program?
 
 ## To Submit
-* Answers to the questions above.
+* Answers to the questions above in a PDF document.
 * Your two Sonic Pi programs.
