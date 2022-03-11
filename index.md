@@ -48,7 +48,7 @@ Upon completing this course, my goal is for you to be able to:
 | 3/4    |   Fri   | [Sonic Pi Tutorial](https://sonic-pi.net/tutorial.html) <br> [Live Coding Education](https://sonic-pi.net/files/articles/Live-Coding-Education.pdf) <br> [Note to Frequency Chart](https://www.doctormix.com/docs/Note-To-Frequancy-Chart.jpg) | Lab 8: [Algorithmic Music]({{site.baseurl}}/labs/music1.html)          | Lab 7     |
 | 3/7    |   Mon   |
 | 3/9    |   Weds  | 
-| 3/11   |   Fri   |                            | Lab 9: Music Representation                                            | Lab 8     |
+| 3/11   |   Fri   | [Frequencies and Intervals](https://www.kaggle.com/gabrielferrer/frequencies-and-intervals)                           | Lab 9: Music Representation                                            | Lab 8     |
 | 3/14   |   Mon   |
 | 3/16   |   Weds  | 
 | 3/18   |   Fri   |                            |                                                                  | Lab 9     |
