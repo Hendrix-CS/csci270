@@ -48,7 +48,7 @@ Upon completing this course, my goal is for you to be able to:
 | 3/4    |   Fri   | [Sonic Pi Tutorial](https://sonic-pi.net/tutorial.html) <br> [Live Coding Education](https://sonic-pi.net/files/articles/Live-Coding-Education.pdf) <br> [Note to Frequency Chart](https://www.doctormix.com/docs/Note-To-Frequancy-Chart.jpg) | Lab 8: [Algorithmic Music]({{site.baseurl}}/labs/music1.html)          | Lab 7     |
 | 3/7    |   Mon   |
 | 3/9    |   Weds  | 
-| 3/11   |   Fri   | [Frequencies and Intervals](https://www.kaggle.com/gabrielferrer/frequencies-and-intervals)                           | Lab 9: Music Representation                                            | Lab 8     |
+| 3/11   |   Fri   | [Frequencies and Intervals](https://www.kaggle.com/gabrielferrer/frequencies-and-intervals)                           | Lab 9: [Musical Mode](https://www.kaggle.com/gabrielferrer/music-major-and-minor-analysis) | Lab 8     |
 | 3/14   |   Mon   |
 | 3/16   |   Weds  | 
 | 3/18   |   Fri   |                            |                                                                  | Lab 9     |
@@ -88,9 +88,9 @@ criteria for these assessments will be given for each lab.
 | 4  | [Sentiment Analysis](https://www.kaggle.com/gabrielferrer/lab-4-sentiment-analysis)            | 2/4      | 2/11     |
 | 5  | [Topic Modeling](https://www.kaggle.com/gabrielferrer/lab-5-topic-modeling)                    | 2/11     | 2/18     |
 | 6  | [Algorithmic Art]({{site.baseurl}}/labs/art.html)                                              | 2/18     | 2/25     |
-| 7  | Image Analysis                                                                                 | 2/25     | 3/4      |
-| 8  | Algorithmic Music                                                                              | 3/4      | 3/11     |
-| 9  | Music Representation                                                                           | 3/11     | 3/18     |
+| 7  | [Image Analysis](https://www.kaggle.com/gabrielferrer/csci-270-lab-7)                                                                                 | 2/25     | 3/4      |
+| 8  | [Algorithmic Music]({{site.baseurl}}/labs/music1.html)                                                                              | 3/4      | 3/11     |
+| 9  | [Major and Minor](https://www.kaggle.com/gabrielferrer/music-major-and-minor-analysis)                                                                           | 3/11     | 3/18     |
 |10  | Music Analysis                                                                                 | 3/28     | 4/1      |
 |11  | Visual Novel                                                                                   | 4/1      | 4/8      |
 
