@@ -55,7 +55,7 @@ Upon completing this course, my goal is for you to be able to:
 | 3/21   |   Mon   | **Spring Break - No class**
 | 3/23   |   Weds  | **Spring Break - No class**
 | 3/25   |   Fri   | **Spring Break - No class**
-| 3/28   |   Mon   |                            | Lab 10: Music Analysis          
+| 3/28   |   Mon   |                            | Lab 10: [Music Clustering](https://www.kaggle.com/gabrielferrer/music-clustering)          
 | 3/30   |   Weds  | 
 | 4/1    |   Fri   |                            | Lab 11: Visual Novel                                             | Lab 10     |
 | 4/4    |   Mon   |
@@ -88,10 +88,10 @@ criteria for these assessments will be given for each lab.
 | 4  | [Sentiment Analysis](https://www.kaggle.com/gabrielferrer/lab-4-sentiment-analysis)            | 2/4      | 2/11     |
 | 5  | [Topic Modeling](https://www.kaggle.com/gabrielferrer/lab-5-topic-modeling)                    | 2/11     | 2/18     |
 | 6  | [Algorithmic Art]({{site.baseurl}}/labs/art.html)                                              | 2/18     | 2/25     |
-| 7  | [Image Analysis](https://www.kaggle.com/gabrielferrer/csci-270-lab-7)                                                                                 | 2/25     | 3/4      |
-| 8  | [Algorithmic Music]({{site.baseurl}}/labs/music1.html)                                                                              | 3/4      | 3/11     |
-| 9  | [Major and Minor](https://www.kaggle.com/gabrielferrer/music-major-and-minor-analysis)                                                                           | 3/11     | 3/18     |
-|10  | Music Analysis                                                                                 | 3/28     | 4/1      |
+| 7  | [Image Analysis](https://www.kaggle.com/gabrielferrer/csci-270-lab-7)                          | 2/25     | 3/4      |
+| 8  | [Algorithmic Music]({{site.baseurl}}/labs/music1.html)                                         | 3/4      | 3/11     |
+| 9  | [Major and Minor](https://www.kaggle.com/gabrielferrer/music-major-and-minor-analysis)         | 3/11     | 3/18     |
+|10  | [Music Clustering](https://www.kaggle.com/gabrielferrer/music-clustering)                      | 3/28     | 4/1      |
 |11  | Visual Novel                                                                                   | 4/1      | 4/8      |
 
 ## <a name="groupwork">In-Class Assignments</a>
