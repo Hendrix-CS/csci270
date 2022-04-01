@@ -57,7 +57,7 @@ Upon completing this course, my goal is for you to be able to:
 | 3/25   |   Fri   | **Spring Break - No class**
 | 3/28   |   Mon   |                            | Lab 10: [Music Clustering](https://www.kaggle.com/gabrielferrer/music-clustering)          
 | 3/30   |   Weds  | 
-| 4/1    |   Fri   |                            | Lab 11: Visual Novel                                             | Lab 10     |
+| 4/1    |   Fri   |                            | Lab 11: [Visual Novel]({{site.baseurl}}/labs/novel.html)         | Lab 10     |
 | 4/4    |   Mon   |
 | 4/6    |   Weds  | 
 | 4/8    |   Fri   |                            |                                                                  | Lab 11     |
