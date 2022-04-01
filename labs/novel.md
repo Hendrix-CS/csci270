@@ -7,7 +7,8 @@ worktitle: Visual Novel
 
 ## Materials
 
-* For this week's lab, download and install the latest version of [Ren'Py](https://www.renpy.org/).
+* For this week's lab, download and install the latest version of 
+[Ren'Py](https://www.renpy.org/).
 
 ## Overview
 
@@ -48,6 +49,10 @@ match the story requirements given in the design document above. As you work
 on it, you are welcome to diverge from the original ideas expressed in the 
 design document, as long as it still meets the given requirements.
 
+To get familiar with how Ren'Py works, I highly recommend reading carefully 
+through the included example **The Question**. There is also a lot of 
+valuable material in the included **Tutorial**. 
+
 ## Images and Music
 
 The story should be enhanced with images and music as follows:
@@ -67,6 +72,17 @@ The story should be enhanced with images and music as follows:
     else workable.
   * Music may be composed and exported from Sonic Pi, or performed,
     recorded, and included from any other suitable source.
+
+If you use the **Record** function in Sonic Pi, it generates a `.wav` file, 
+which is a format that Ren'Py doesn't support. The following code (using
+the [`pydub`](http://pydub.com/) library, preinstalled in Kaggle) will 
+convert a file named `scene1.wav` file to an `.mp3` file named `scene1.mp3`:
+
+```
+from pydub import AudioSegment 
+song = AudioSegment.from_wav("../input/wav-files-to-convert/scene1.wav")
+song.export("scene1.mp3", format="mp3")
+```
 
 ## To Submit via Teams
 
