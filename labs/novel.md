@@ -53,6 +53,10 @@ To get familiar with how Ren'Py works, I highly recommend reading carefully
 through the included example **The Question**. There is also a lot of 
 valuable material in the included **Tutorial**. 
 
+I have also created a 
+[short visual novel](https://github.com/gjf2a/help_visitor) as a 
+demonstration.
+
 ## Images and Music
 
 The story should be enhanced with images and music as follows:
