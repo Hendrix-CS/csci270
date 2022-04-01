@@ -92,7 +92,7 @@ criteria for these assessments will be given for each lab.
 | 8  | [Algorithmic Music]({{site.baseurl}}/labs/music1.html)                                         | 3/4      | 3/11     |
 | 9  | [Major and Minor](https://www.kaggle.com/gabrielferrer/music-major-and-minor-analysis)         | 3/11     | 3/18     |
 |10  | [Music Clustering](https://www.kaggle.com/gabrielferrer/music-clustering)                      | 3/28     | 4/1      |
-|11  | Visual Novel                                                                                   | 4/1      | 4/8      |
+|11  | [Visual Novel]({{site.baseurl}}/labs/novel.html)                                               | 4/1      | 4/8      |
 
 ## <a name="groupwork">In-Class Assignments</a>
 

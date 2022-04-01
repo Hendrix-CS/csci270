@@ -40,6 +40,13 @@ following:
 * A description of each anticipated decision point in the novel. It should 
   have at least four distinct decision points, and there should be at least 
   one ending which is reached by making at least two distinct decisions.
+  
+## The Visual Novel
+
+Create your visual novel using [Ren'Py](https://www.renpy.org/). It should
+match the story requirements given in the design document above. As you work
+on it, you are welcome to diverge from the original ideas expressed in the 
+design document, as long as it still meets the given requirements.
 
 ## Images and Music
 
@@ -63,7 +70,9 @@ The story should be enhanced with images and music as follows:
 
 ## To Submit via Teams
 
-* A Zip file of your completed visual novel
-* A PDF document containing:
-  * 
+* By Monday, April 4, at 11:10 am:
+  * A PDF of your design document
+  * Bring a printed copy to class that day
+* By Friday, April 8, at 11:10 am:
+  * A Zip file of your completed visual novel
 
