@@ -177,7 +177,7 @@ You might also consider an analytic-based project whose outcome is embedded in a
 
 ### Sample Creative Project Topics
 
-- Create a feature-length Visual Novel using Ren'Py.
+- Create a feature-length (approximately 30 minutes play-through time) Visual Novel using Ren'Py.
 - Create an extended musical work (or a series of related smaller works) using Sonic Pi.
 - Give a Sonic Pi public live coding performance.
 - Create an elaborate piece of algorithmically sophisticated art using Context Free Art.
