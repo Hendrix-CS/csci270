@@ -70,6 +70,15 @@ Describe the software you plan to use to create your work.
 How do you plan to assess the degree to which your creative work meets 
 your goals for impact on its audience?
 
+## Progress Report
+
+During the last week of classes, each student will give a progress report.
+Each progress report should consist of four PowerPoint style slides:
+* Project Overview
+* Current Achievements
+* Challenges and Obstacles
+* Plan for Completion
+
 
 ## Presentation
 
