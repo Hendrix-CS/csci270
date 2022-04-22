@@ -63,14 +63,14 @@ Upon completing this course, my goal is for you to be able to:
 | 4/8    |   Fri   |                            |                                                                  | Lab 11     |
 | 4/11   |   Mon   |                            | Final Project: Proposal
 | 4/13   |   Weds  | 
-| 4/15   |   Fri   |                            |                                                                  | Final Project: Proposal |
+| 4/15   |   Fri   |                            |                                                                  | [final project]({{site.baseurl}}/projects/project.html): Proposal |
 | 4/18   |   Mon   |                            | 
 | 4/20   |   Weds  | 
-| 4/22   |   Fri   |                            |                                                                  | Final Project: Progress Report |
-| 4/25   |   Mon   |                            | 
-| 4/27   |   Weds  | 
-| 4/29   |   Fri   |                            |                                                                  | Final Project: Progress Report |
-| 5/6    |   Fri 8:30-11:30 am|                                                                                    | Final Project: Presentation |
+| 4/22   |   Fri   |                            |                                                                  |  |
+| 4/25   |   Mon   |                            |                                                                  | [final project]({{site.baseurl}}/projects/project.html): Progress Report
+| 4/27   |   Weds  |                            |                                                                  | [final project]({{site.baseurl}}/projects/project.html): Progress Report                             
+| 4/29   |   Fri   |                            |                                                                  |  |
+| 5/6    |   Fri 8:30-11:30 am|                                                                                    | [final project]({{site.baseurl}}/projects/project.html): Presentation |
 
 # <a name="assessment">Assessment</a>
 
