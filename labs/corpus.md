@@ -12,13 +12,18 @@ condition through language, art, and music. To assist us and make our
 work personally valuable, you will be gathering text, images, and sound
 files for the class to analyze in subsequent labs.
 
+Uploading copyrighted materials is fine for this assignment, as they will only be 
+distributed to students in the course and used for strictly educational purposes.
+Be sure not to further redistribute any of these materials.
+
+That said, public domain materials are often easier to obtain. Some links to 
+repositories of freely available materials are provided below.
+
 ## Poem
 
-First, it will be useful to have a small dataset for exploring our
-algorithms and generating examples.
-
-Find a small poem or lyrics to a song written in English that holds
-meaning for you.
+Find a small poem written in English that holds meaning for you. You might find
+[Public Domain Poetry](https://www.public-domain-poetry.com) useful for this 
+purpose.
 
 Save your poem as a plain text document with a short, meaningful file
 name. (with file extension `.txt`) Your file size for this poem should
@@ -28,7 +33,7 @@ be no more than 20KB, and be saved using UTF-8 encoding.
 
 To find statistical patterns in text data, we need a large amount of text.
 
-Find a book/novel/treatise/creative work of fiction that has meaning to you, stored in an
+Find a novel that has meaning to you, stored in an
 electronic format. You should either find the novel available without
 cost, or purchase the ebook (look for versions without DRM so we can
 access the raw data). I **strongly recommend** using 
@@ -43,16 +48,27 @@ If your book is in another file format, such as `.epub`, it must be converted
 to a plain text document. [Calibre](https://calibre-ebook.com/download)
 can assist with this conversion.
 
-## Image
+## Images
 
-Find an image of art stored in an electronic file format (PNG, JPEG,
-TIFF, BMP, SVG, etc) that has meaning to you. This file must be at least HD
-quality (1920 x 1080 pixels in size).
+Find two images of paintings (as described below) that have meaning to you. Each 
+image should be stored in either PNG or JPEG format. Each file must be at least 640x400 pixels in size.
 
-## Instrumental Music
+The first image should be a painted portrait. The face should be fully visible,
+with two eyes, a nose, and a mouth visible in particular.
 
-Find a piece of instrumental music (no singing) stored in the `.mp3`
-file format that has meaning to you.
+The second image should be a painted landscape. 
+
+## Music
+
+Find two recordings of music (as described below) that have meaning to you. Each 
+recording should be stored in the `.mp3` file format. Both recordings should be 
+between one and four minutes in length. An excerpt from a longer work is acceptable.
+
+The first recording should be purely instrumental music with no singing. The
+second recording should include a vocal performance. For the second recording,
+also submit the lyrics.
+
+A good source for public-domain recordings of classical music is [imslp.org](https://imslp.org/wiki/Main_Page). 
 
 ## Reflection
 
@@ -70,4 +86,6 @@ Submit your answers to these reflection questions through the `Creating a Corpus
 
 # What to Hand In
 
-Upload each of your four files to the appropriate directory under the `Files` tab in Teams.
+* Answer the questions above in the Teams Assignment.
+* Upload your selections to the appropriate Kaggle data set.
+

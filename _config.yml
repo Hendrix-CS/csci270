@@ -106,12 +106,6 @@ resources:
   - name: Sonic Pi
     image: assets/images/sonicpi.png
     url: https://sonic-pi.net/
-  - name: MuseScore
-    image: assets/images/musescore.png
-    url: https://musescore.com/
-  - name: Graphviz
-    image: assets/images/graphviz.png
-    url: https://www.graphviz.org/
   - name: Ren'Py
     image: assets/images/renpy.PNG
     url: https://www.renpy.org/
