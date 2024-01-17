@@ -65,8 +65,8 @@ recording should be stored in the `.mp3` file format. Both recordings should be
 between one and four minutes in length. An excerpt from a longer work is acceptable.
 
 The first recording should be purely instrumental music with no singing. The
-second recording should include a vocal performance. For the second recording,
-also submit the lyrics.
+second recording should include a vocal performance, sung in English. For the 
+second recording, also submit the lyrics.
 
 A good source for public-domain recordings of classical music is [imslp.org](https://imslp.org/wiki/Main_Page). 
 
