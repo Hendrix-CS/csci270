@@ -88,4 +88,7 @@ Submit your answers to these reflection questions through the `Creating a Corpus
 
 * Answer the questions above in the Teams Assignment.
 * Upload your selections to the appropriate Kaggle data set.
+  * For each item, use a filename describing it in a few words, ending with your last name. Separate the words 
+    with underscores. For example, I uploaded *The Brothers Karamazov* by Fyodor Dostoevesky. I used
+    the filename `karamazov_dostoevsky_ferrer.txt`. 
 
