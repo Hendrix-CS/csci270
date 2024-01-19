@@ -61,7 +61,7 @@ Upon completing this course, my goal is for you to be able to:
 | 4/1    |   Mon   |                            | Lab 11: [Music Clustering](https://www.kaggle.com/gabrielferrer/music-clustering) | Lab 10
 | 4/3    |   Weds  | 
 | 4/5    |   Fri   |                            |                                                                  |
-| 4/8    |   Mon   | ** Eclipse - No class **   | Final Project: Proposal
+| 4/8    |   Mon   | ** Eclipse - No class **   | 
 | 4/10   |   Weds  |                            | Lab 12: [Visual Novel]({{site.baseurl}}/labs/novel.html)         | Lab 11
 | 4/12   |   Fri   |                            |                                                                  | 
 | 4/15   |   Mon   |                            | 
