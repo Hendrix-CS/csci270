@@ -28,45 +28,59 @@ Upon completing this course, my goal is for you to be able to:
 |  ---   |   ---   |        ---                 |     ---                                                          |   ---     |
 | 1/17   |   Weds  |  Introduction              | [Survey](https://forms.gle/VLRVHjUAisWP5R9J8)<br>Lab 1: [Creating a Corpus]({{site.baseurl}}/labs/corpus.html)
 | 1/19   |   Fri   |  [Python Encodings](https://realpython.com/python-encodings-guide/)<br>[The Great Newline Schism](https://blog.codinghorror.com/the-great-newline-schism/)<br>[Unicode](https://home.unicode.org/)<br>[UTF-8](https://en.wikipedia.org/wiki/UTF-8)<br>[Texting in Ancient Mayan Hieroglyphs](https://www.neh.gov/humanities/2018/winter/feature/texting-in-ancient-mayan-hieroglyphs) | Lab 2: [Summary Statistics](https://www.kaggle.com/gabrielferrer/csci-270-lab-2-summary-statistics) | Lab 1     |
+|
 | 1/22   |   Mon   |  [Generators and Comprehensions](https://www.pythonlikeyoumeanit.com/Module2_EssentialsOfPython/Generators_and_Comprehensions.html)<br>[Zipf's Law](https://en.wikipedia.org/wiki/Zipf%27s_law)<br>[*hapax legomenon*](https://en.wikipedia.org/wiki/Hapax_legomenon)<br>[Markdown](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html)
 | 1/24   |   Weds  |  [Pandas](https://pandas.pydata.org/)<br>[Swadesh List](https://en.wikipedia.org/wiki/Swadesh_list)
 | 1/26   |   Fri   |  [tf-idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)<br>[Why does tf-idf use a log?](https://www.quora.com/Why-does-TF-IDF-use-a-log) | Lab 3: [Document Clustering](https://www.kaggle.com/gabrielferrer/csci-270-lab-3-document-clustering)                                       | Lab 2     |
+|
 | 1/29   |   Mon   |  [Cosine Similarity](https://en.wikipedia.org/wiki/Cosine_similarity)<br>[UPGMA](https://en.wikipedia.org/wiki/UPGMA)
 | 1/31   |   Weds  | 
 | 2/2    |   Fri   |                            | Lab 4: [Sentiment Analysis](https://www.kaggle.com/gabrielferrer/lab-4-sentiment-analysis)                                            | Lab 3     |
+|
 | 2/5    |   Mon   |
 | 2/7    |   Weds  | 
 | 2/9    |   Fri   |                            | Lab 5: [Topic Modeling](https://www.kaggle.com/gabrielferrer/lab-5-topic-modeling)                                         | Lab 4     |
+|
 | 2/12   |   Mon   |
 | 2/14   |   Weds  | 
 | 2/16   |   Fri   |                            | Lab 6: [Algorithmic Art]({{site.baseurl}}/labs/art.html)                                            | Lab 5     |
+|
 | 2/19   |   Mon   | **Winter Break - No class**
 | 2/21   |   Weds  | 
 | 2/23   |   Fri   | [OpenCV](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html) | Lab 7: [Image Analysis](https://www.kaggle.com/gabrielferrer/csci-270-lab-7) | Lab 6     |
+|
 | 2/26   |   Mon   |
 | 2/28   |   Weds  | 
 | 3/1    |   Fri   |                                                                    | Lab 8: Image Analysis of Faces | Lab 7
+|
 | 3/4    |   Mon   |
 | 3/6    |   Weds  | 
 | 3/8    |   Fri   | [Sonic Pi Tutorial](https://sonic-pi.net/tutorial.html) <br> [Live Coding Education](https://sonic-pi.net/files/articles/Live-Coding-Education.pdf) <br> [Note to Frequency Chart](https://www.doctormix.com/docs/Note-To-Frequancy-Chart.jpg)                                          | Lab 9: [Algorithmic Music]({{site.baseurl}}/labs/music1.html) | Lab 8     |
+|
 | 3/11   |   Mon   |
 | 3/13   |   Weds  | 
 | 3/15   |   Fri   |                            |                                                                  | Lab 9     |
+|
 | 3/18   |   Mon   | **Spring Break - No class**
 | 3/20   |   Weds  | **Spring Break - No class**
 | 3/22   |   Fri   | **Spring Break - No class**
+|
 | 3/25   |   Mon   | [Frequencies and Intervals](https://www.kaggle.com/gabrielferrer/frequencies-and-intervals)   | Lab 10: [Sentiment Analysis of Music](https://www.kaggle.com/gabrielferrer/music-major-and-minor-analysis)          
 | 3/27   |   Weds  | 
 | 3/29   |   Fri   |                            | 
+|
 | 4/1    |   Mon   |                            | Lab 11: [Music Clustering](https://www.kaggle.com/gabrielferrer/music-clustering) | Lab 10
 | 4/3    |   Weds  | 
 | 4/5    |   Fri   |                            |                                                                  |
+|
 | 4/8    |   Mon   | ** Eclipse - No class **   | 
 | 4/10   |   Weds  |                            | Lab 12: [Visual Novel]({{site.baseurl}}/labs/novel.html)         | Lab 11
 | 4/12   |   Fri   |                            |                                                                  | 
+|
 | 4/15   |   Mon   |                            | 
 | 4/17   |   Weds  | Final Project              | Final Project: Proposal                                          | Lab 12     
 | 4/19   |   Fri   |                            |                                                                  | [Final project]({{site.baseurl}}/projects/project.html): Proposal
+|
 | 4/22   |   Mon   |                            |                                                                  | 
 | 4/24   |   Weds  |                            |                                                                  | [Final project]({{site.baseurl}}/projects/project.html): Progress Report                             
 | 4/26   |   Fri   |                            |                                                                  | [Final project]({{site.baseurl}}/projects/project.html): Progress Report |

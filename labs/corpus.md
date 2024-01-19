@@ -65,8 +65,8 @@ recording should be stored in the `.mp3` file format. Both recordings should be
 between one and four minutes in length. An excerpt from a longer work is acceptable.
 
 The first recording should be purely instrumental music with no singing. The
-second recording should include a vocal performance. For the second recording,
-also submit the lyrics.
+second recording should include a vocal performance, sung in English. For the 
+second recording, also submit the lyrics.
 
 A good source for public-domain recordings of classical music is [imslp.org](https://imslp.org/wiki/Main_Page). 
 
@@ -88,4 +88,7 @@ Submit your answers to these reflection questions through the `Creating a Corpus
 
 * Answer the questions above in the Teams Assignment.
 * Upload your selections to the appropriate Kaggle data set.
+  * For each item, use a filename describing it in a few words, ending with your last name. Separate the words 
+    with underscores. For example, I uploaded *The Brothers Karamazov* by Fyodor Dostoevesky. I used
+    the filename `karamazov_dostoevsky_ferrer.txt`. 
 
