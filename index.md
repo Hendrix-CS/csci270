@@ -35,11 +35,11 @@ Upon completing this course, my goal is for you to be able to:
 |
 | 1/29   |   Mon   |  [Cosine Similarity](https://en.wikipedia.org/wiki/Cosine_similarity)<br>[UPGMA](https://en.wikipedia.org/wiki/UPGMA)
 | 1/31   |   Weds  | 
-| 2/2    |   Fri   |                            | Lab 4: [Sentiment Analysis](https://www.kaggle.com/gabrielferrer/lab-4-sentiment-analysis)                                            | Lab 3     |
+| 2/2    |   Fri   |                            | Lab 4: [Finding Meaning](https://www.kaggle.com/gabrielferrer/lab-4-finding-meaning)                                            | Lab 3     |
 |
 | 2/5    |   Mon   |
 | 2/7    |   Weds  | 
-| 2/9    |   Fri   |                            | Lab 5: [Topic Modeling](https://www.kaggle.com/gabrielferrer/lab-5-topic-modeling)                                         | Lab 4     |
+| 2/9    |   Fri   |                            | Lab 5: [Sentiment Analysis](https://www.kaggle.com/gabrielferrer/lab-4-sentiment-analysis)                                          | Lab 4     |
 |
 | 2/12   |   Mon   |
 | 2/14   |   Weds  | 
