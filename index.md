@@ -37,11 +37,11 @@ Upon completing this course, my goal is for you to be able to:
 | 1/31   |   Weds  | 
 | 2/2    |   Fri   |                            | Lab 4: [Finding Meaning](https://www.kaggle.com/gabrielferrer/lab-4-finding-meaning)                                            | Lab 3     |
 |
-| 2/5    |   Mon   |
-| 2/7    |   Weds  | 
-| 2/9    |   Fri   |                            | Lab 5: [Sentiment Analysis](https://www.kaggle.com/gabrielferrer/lab-4-sentiment-analysis)                                          | Lab 4     |
+| 2/5    |   Mon   | [TextRank](https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf)
+| 2/7    |   Weds  | [Word2Vec](https://wiki.pathmind.com/word2vec)
+| 2/9    |   Fri   | [VADER](https://www.researchgate.net/publication/275828927_VADER_A_Parsimonious_Rule-based_Model_for_Sentiment_Analysis_of_Social_Media_Text)                           | Lab 5: [Sentiment Analysis](https://www.kaggle.com/gabrielferrer/lab-4-sentiment-analysis)                                          | Lab 4     |
 |
-| 2/12   |   Mon   |
+| 2/12   |   Mon   | [BERT](https://arxiv.org/pdf/1810.04805.pdf)
 | 2/14   |   Weds  | 
 | 2/16   |   Fri   |                            | Lab 6: [Algorithmic Art]({{site.baseurl}}/labs/art.html)                                            | Lab 5     |
 |
