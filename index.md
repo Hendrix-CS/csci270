@@ -39,7 +39,7 @@ Upon completing this course, my goal is for you to be able to:
 |
 | 2/5    |   Mon   | [TextRank](https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf)
 | 2/7    |   Weds  | [Word2Vec](https://wiki.pathmind.com/word2vec)
-| 2/9    |   Fri   | [VADER](https://www.researchgate.net/publication/275828927_VADER_A_Parsimonious_Rule-based_Model_for_Sentiment_Analysis_of_Social_Media_Text)                           | Lab 5: [Sentiment Analysis](https://www.kaggle.com/gabrielferrer/lab-4-sentiment-analysis)                                          | Lab 4     |
+| 2/9    |   Fri   | [VADER](https://www.researchgate.net/publication/275828927_VADER_A_Parsimonious_Rule-based_Model_for_Sentiment_Analysis_of_Social_Media_Text)                           | Lab 5: [Sentiment Analysis](https://www.kaggle.com/gabrielferrer/lab-5-sentiment-analysis)                                          | Lab 4     |
 |
 | 2/12   |   Mon   | [BERT](https://arxiv.org/pdf/1810.04805.pdf)
 | 2/14   |   Weds  | 
