@@ -43,7 +43,7 @@ Upon completing this course, my goal is for you to be able to:
 |
 | 2/12   |   Mon   | [BERT](https://arxiv.org/pdf/1810.04805.pdf)
 | 2/14   |   Weds  | 
-| 2/16   |   Fri   |                            | Lab 6: TBA <!--[Algorithmic Art]({{site.baseurl}}/labs/art.html)-->                                            | Lab 5     |
+| 2/16   |   Fri   | [Turtle Graphics](https://docs.python.org/3/library/turtle.html)    | Lab 6: [Algorithmic Art](https://www.kaggle.com/gabrielferrer/lab-6-algorithmic-art)                                            | Lab 5     |
 |
 | 2/19   |   Mon   | **Winter Break - No class**
 | 2/21   |   Weds  | 
