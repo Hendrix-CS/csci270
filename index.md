@@ -46,12 +46,12 @@ Upon completing this course, my goal is for you to be able to:
 | 2/16   |   Fri   | [Turtle Graphics](https://docs.python.org/3/library/turtle.html)    | Lab 6: [Algorithmic Art](https://www.kaggle.com/gabrielferrer/lab-6-algorithmic-art)                                            | Lab 5     |
 |
 | 2/19   |   Mon   | **Winter Break - No class**
-| 2/21   |   Weds  | 
-| 2/23   |   Fri   | [OpenCV](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html) | Lab 7: [Image Analysis](https://www.kaggle.com/gabrielferrer/csci-270-lab-7) | Lab 6     |
+| 2/21   |   Weds  | [OpenCV](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
+| 2/23   |   Fri   | [RetinaFace](https://arxiv.org/abs/1905.00641) | Lab 7: [People in Paintings](https://www.kaggle.com/gabrielferrer/lab-7-people-in-paintings) | Lab 6     |
 |
-| 2/26   |   Mon   |
+| 2/26   |   Mon   | [DeepFace](https://research.facebook.com/publications/deepface-closing-the-gap-to-human-level-performance-in-face-verification/)
 | 2/28   |   Weds  | 
-| 3/1    |   Fri   |                                                                    | Lab 8: Image Analysis of Faces | Lab 7
+| 3/1    |   Fri   |                                                                    | Lab 8 | Lab 7
 |
 | 3/4    |   Mon   |
 | 3/6    |   Weds  | 
