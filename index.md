@@ -53,9 +53,9 @@ Upon completing this course, my goal is for you to be able to:
 | 2/28   |   Weds  | [librosa](https://librosa.org/doc/latest/index.html)
 | 3/1    |   Fri   | [Sonic Pi Tutorial](https://sonic-pi.net/tutorial.html) <br> [Live Coding Education](https://sonic-pi.net/files/articles/Live-Coding-Education.pdf) <br> [Note to Frequency Chart](https://www.doctormix.com/docs/Note-To-Frequancy-Chart.jpg)                                                         | Lab 8: [Algorithmic Music](https://www.kaggle.com/code/gabrielferrer/lab-8-algorithmic-music) | Lab 7
 |
-| 3/4    |   Mon   |
+| 3/4    |   Mon   | 
 | 3/6    |   Weds  | 
-| 3/8    |   Fri   |  [Frequencies and Intervals](https://www.kaggle.com/gabrielferrer/frequencies-and-intervals) | Lab 9: [Sentiment Analysis of Music](https://www.kaggle.com/gabrielferrer/music-major-and-minor-analysis) | Lab 8     |
+| 3/8    |   Fri   |  [Frequencies and Intervals](https://www.kaggle.com/gabrielferrer/frequencies-and-intervals) | Lab 9: [Music Clustering](https://www.kaggle.com/code/gabrielferrer/lab-9-music-clustering) | Lab 8     |
 |
 | 3/11   |   Mon   |
 | 3/13   |   Weds  | 
@@ -65,7 +65,7 @@ Upon completing this course, my goal is for you to be able to:
 | 3/20   |   Weds  | **Spring Break - No class**
 | 3/22   |   Fri   | **Spring Break - No class**
 |
-| 3/25   |   Mon   |                            |  Lab 10: [Music Clustering](https://www.kaggle.com/gabrielferrer/music-clustering)         
+| 3/25   |   Mon   |                            |  Lab 10: Analyzing Songs        
 | 3/27   |   Weds  | 
 | 3/29   |   Fri   |                            | 
 |
