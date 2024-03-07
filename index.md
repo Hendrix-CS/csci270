@@ -102,9 +102,9 @@ Each submission will be assessed as either **Complete**, **Partially Complete** 
 | 5  | [Topic Modeling](https://www.kaggle.com/gabrielferrer/lab-5-topic-modeling)                    | 2/9      | 2/16     |
 | 6  | [Algorithmic Art](https://www.kaggle.com/gabrielferrer/lab-6-algorithmic-art)                  | 2/16     | 2/23     |
 | 7  | [People in Paintings](https://www.kaggle.com/gabrielferrer/lab-7-people-in-paintings)          | 2/23     | 3/1      |
-| 8  | [Algorithmic Music]({{site.baseurl}}/labs/music1.html)                                         | 3/1      | 3/8      |
-| 9  | [Major and Minor](https://www.kaggle.com/gabrielferrer/music-major-and-minor-analysis)         | 3/8      | 3/15     |
-|10  | [Music Clustering](https://www.kaggle.com/gabrielferrer/music-clustering)                      | 3/25     | 4/1      |
+| 8  | [Algorithmic Music](https://www.kaggle.com/code/gabrielferrer/lab-8-algorithmic-music)         | 3/1      | 3/8      |
+| 9  | [Music Clustering](https://www.kaggle.com/code/gabrielferrer/lab-9-music-clustering)           | 3/8      | 3/15     |
+|10  | Analyzing Songs                                                                                | 3/25     | 4/1      |
 |11  | [Visual Novel]({{site.baseurl}}/labs/novel.html)                                               | 4/1      | 4/10     |
 
 ## <a name="finalproject">Final Project</a>
