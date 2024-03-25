@@ -65,7 +65,7 @@ Upon completing this course, my goal is for you to be able to:
 | 3/20   |   Weds  | **Spring Break - No class**
 | 3/22   |   Fri   | **Spring Break - No class**
 |
-| 3/25   |   Mon   |                            |  Lab 10: Analyzing Songs        
+| 3/25   |   Mon   |                            | Lab 10: [Analyzing Songs]({{site.baseurl}}/labs/songsS.html)
 | 3/27   |   Weds  | 
 | 3/29   |   Fri   |                            | 
 |
