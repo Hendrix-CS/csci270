@@ -90,9 +90,9 @@ song.export("scene1.mp3", format="mp3")
 
 ## To Submit via Teams
 
-* By Monday, April 4, at 11:10 am:
+* By Wednesday, April 3, at 10:10 am:
   * A PDF of your design document
   * Bring a printed copy to class that day
-* By Friday, April 8, at 11:10 am:
+* By Wednesday, April 10, at 10:10 am:
   * A Zip file of your completed visual novel
 
