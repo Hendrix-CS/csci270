@@ -73,7 +73,7 @@ Upon completing this course, my goal is for you to be able to:
 | 4/3    |   Weds  | 
 | 4/5    |   Fri   |                            |                                                                  |
 |
-| 4/8    |   Mon   | ** Eclipse - No class **   | 
+| 4/8    |   Mon   | **Eclipse - No class**     | 
 | 4/10   |   Weds  | Final Project              | [Final project]({{site.baseurl}}/projects/project.html): Proposal   | Lab 11
 | 4/12   |   Fri   |                            |                           | 
 |
