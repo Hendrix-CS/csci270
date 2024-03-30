@@ -7,7 +7,7 @@ worktitle: Visual Novel
 
 ## Materials
 
-* For this week's lab, download and install the latest version of 
+For this week's lab, download and install the latest version of 
 [Ren'Py](https://www.renpy.org/).
 
 ## Overview
