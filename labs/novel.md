@@ -7,7 +7,7 @@ worktitle: Visual Novel
 
 ## Materials
 
-* For this week's lab, download and install the latest version of 
+For this week's lab, download and install the latest version of 
 [Ren'Py](https://www.renpy.org/).
 
 ## Overview
@@ -72,10 +72,13 @@ The story should be enhanced with images and music as follows:
   one scene.
 * Images and music must be original creations.
   * Images may be photographs, original drawings/paintings that are scanned,
-    Context Free Art creations, sketches from a drawing program, or anything
+    sketches from a drawing program, created by a generative AI, or anything
     else workable.
   * Music may be composed and exported from Sonic Pi, or performed,
-    recorded, and included from any other suitable source.
+    recorded, and included from any other suitable source, again
+    including a generative AI.
+  * If you use a generative AI, supply your prompts and a link to the generative 
+    AI you employed as part of your submission.
 
 If you use the **Record** function in Sonic Pi, it generates a `.wav` file, 
 which is a format that Ren'Py doesn't support. The following code (using

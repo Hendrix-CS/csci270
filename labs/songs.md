@@ -37,6 +37,9 @@ of different sentiments.
   * It should employ both text-based and music-based similarity analysis.
   * Create a dendrogram showing the similarity relationships for the entire corpus.
   * Feel free to modify your metric until you find it to be satisfactory.
+* Assess the similarity metric as follows:
+  * For each song, are its nearest neighbors subjectively similar to it? Why or why not? 
+    What aspects of your metric correspond well (or less well) to your subjective impressions?
 * Import whatever libraries you need. You may use any Python library you want. If it
   is a library we haven't previously used in the course, briefly describe it.
 * Write a detailed description of the designs of your analyzers. Focus on the rationale
