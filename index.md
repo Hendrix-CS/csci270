@@ -74,14 +74,14 @@ Upon completing this course, my goal is for you to be able to:
 | 4/5    |   Fri   |                            |                                                                  |
 |
 | 4/8    |   Mon   | **Eclipse - No class**     | 
-| 4/10   |   Weds  | Final Project              | [Final project]({{site.baseurl}}/projects/project.html): Proposal   | Lab 11
-| 4/12   |   Fri   |                            |                           | 
+| 4/10   |   Weds  |               |    | Lab 11
+| 4/12   |   Fri   | Final Project      | [Final project]({{site.baseurl}}/projects/project.html): Proposal                      | 
 |
-| 4/15   |   Mon   |                            | 
+| 4/15   |   Mon   |                            |                           | Final Project Proposal
 | 4/17   |   Weds  |                            |                           | 
 | 4/19   |   Fri   |                            |                           | 
 |
-| 4/22   |   Mon   |                            |                           | 
+| 4/22   |   Mon   | No Class                   |                           | 
 | 4/24   |   Weds  |                            |                           | [Final project]({{site.baseurl}}/projects/project.html): Progress Report                             
 | 4/26   |   Fri   |                            |                           | [Final project]({{site.baseurl}}/projects/project.html): Progress Report |
 | 5/2    |   Thr 8:30-11:30 am|                                                                                    | [Final project]({{site.baseurl}}/projects/project.html): Presentation |
