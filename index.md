@@ -18,6 +18,26 @@ Upon completing this course, my goal is for you to be able to:
 * Measure and visualize similarity of digital creative works.
 * Employ algorithmic structures to synthesize original digital creative works.
 
+<!-- Notes for next time
+
+Move to a Level structure for each assignment.
+* Level 1, 2, and 3 for each one.
+  * Achieving Level 1 should be really easy!
+* Also work in an on-time bonus
+* Lab 1 has only one level - it is all or nothing - 2 credits
+* Labs 2-11 each have three levels - 4 credits each - 40 credits
+* 42 total credits - grades would be:
+  * A: 39-42 (allows three late/less complete submissions - must still do something for every lab)
+  * B: 31-38
+  * C: 23-30
+  * D: 15-22
+  
+Final project
+* If you do everything you state, it is complete
+* If you fall short, partially complete
+* Goals are negotiable right up to submission
+-->
+
 ## <a name="resources">Resources</a>
 
 {% include resources.html content=site.resources %}
