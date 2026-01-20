@@ -54,57 +54,58 @@ Final project
 | 1/30   |   Fri   |  [tf-idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)<br>[Why does tf-idf use a log?](https://qr.ae/pKB7IJ) | Lab 3: [Document Clustering](https://www.kaggle.com/gabrielferrer/csci-270-lab-3-document-clustering)                                       | Lab 2     |
 |
 | 2/2    |   Mon   |  [Cosine Similarity](https://en.wikipedia.org/wiki/Cosine_similarity)<br>[UPGMA](https://en.wikipedia.org/wiki/UPGMA)
-| 2/4   |   Weds  | 
-| 2/6    |   Fri   |                            | Lab 4: [Finding Meaning](https://www.kaggle.com/gabrielferrer/lab-4-finding-meaning)                                            | Lab 3     |
+| 2/4    |   Weds  | [Word2Vec](https://wiki.pathmind.com/word2vec)
+| 2/6    |   Fri   | [TextRank](https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf) | Lab 4: [Finding Meaning](https://www.kaggle.com/gabrielferrer/lab-4-finding-meaning)                                            | Lab 3     |
 |
-| 2/9    |   Mon   | [TextRank](https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf)
-| 2/11   |   Weds  | [Word2Vec](https://wiki.pathmind.com/word2vec)
-| 2/13   |   Fri   | [VADER](https://www.researchgate.net/publication/275828927_VADER_A_Parsimonious_Rule-based_Model_for_Sentiment_Analysis_of_Social_Media_Text)                           | Lab 5: [Sentiment Analysis](https://www.kaggle.com/gabrielferrer/lab-5-sentiment-analysis)                                          | Lab 4     |
+| 2/9    |   Mon   | [VADER](https://www.researchgate.net/publication/275828927_VADER_A_Parsimonious_Rule-based_Model_for_Sentiment_Analysis_of_Social_Media_Text) 
+| 2/11   |   Weds  | [BERT](https://arxiv.org/pdf/1810.04805.pdf)
+| 2/13   |   Fri   |             | Lab 5: [Sentiment Analysis](https://www.kaggle.com/gabrielferrer/lab-5-sentiment-analysis)                                          | Lab 4     |
 |
-| 2/12   |   Mon   | [BERT](https://arxiv.org/pdf/1810.04805.pdf)
-| 2/14   |   Weds  | 
-| 2/16   |   Fri   | [Turtle Graphics](https://docs.python.org/3/library/turtle.html)    | Lab 6: [Algorithmic Art](https://www.kaggle.com/gabrielferrer/lab-6-algorithmic-art)                                            | Lab 5     |
+| 2/16   |   Mon   | **NO CLASS: Winter Break**
+| 2/18   |   Weds  | **NO CLASS: Away at Conference**
+| 2/20   |   Fri   | **NO CLASS: Away at Conference**
 |
-| 2/19   |   Mon   | **Winter Break - No class**
-| 2/21   |   Weds  | [OpenCV](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
-| 2/23   |   Fri   | [RetinaFace](https://arxiv.org/abs/1905.00641) | Lab 7: [People in Paintings](https://www.kaggle.com/gabrielferrer/lab-7-people-in-paintings) | Lab 6     |
+| 2/23   |   Mon   | [Turtle Graphics](https://docs.python.org/3/library/turtle.html)    | Lab 6: [Algorithmic Art](https://www.kaggle.com/gabrielferrer/lab-6-algorithmic-art)                                            | Lab 5     |
+| 2/25   |   Weds  | [OpenCV](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
+| 2/27   |   Fri   | [RetinaFace](https://arxiv.org/abs/1905.00641) 
 |
-| 2/26   |   Mon   | [DeepFace](https://research.facebook.com/publications/deepface-closing-the-gap-to-human-level-performance-in-face-verification/)
-| 2/28   |   Weds  | [librosa](https://librosa.org/doc/latest/index.html)
-| 3/1    |   Fri   | [Sonic Pi Tutorial](https://sonic-pi.net/tutorial.html) <br> [Live Coding Education](https://sonic-pi.net/files/articles/Live-Coding-Education.pdf) <br> [Note to Frequency Chart](https://www.doctormix.com/docs/Note-To-Frequancy-Chart.jpg)                                                         | Lab 8: [Algorithmic Music](https://www.kaggle.com/code/gabrielferrer/lab-8-algorithmic-music) | Lab 7
+| 3/2    |   Mon   | [DeepFace](https://research.facebook.com/publications/deepface-closing-the-gap-to-human-level-performance-in-face-verification/) | Lab 7: [People in Paintings](https://www.kaggle.com/gabrielferrer/lab-7-people-in-paintings) | Lab 6     |
+
+| 3/4    |   Weds  | [librosa](https://librosa.org/doc/latest/index.html)
+| 3/6    |   Fri   | [Sonic Pi Tutorial](https://sonic-pi.net/tutorial.html) <br> [Live Coding Education](https://sonic-pi.net/files/articles/Live-Coding-Education.pdf) <br> [Note to Frequency Chart](https://www.doctormix.com/docs/Note-To-Frequancy-Chart.jpg)
 |
-| 3/4    |   Mon   | 
-| 3/6    |   Weds  | 
-| 3/8    |   Fri   |  [Frequencies and Intervals](https://www.kaggle.com/gabrielferrer/frequencies-and-intervals) | Lab 9: [Music Clustering](https://www.kaggle.com/code/gabrielferrer/lab-9-music-clustering) | Lab 8     |
+| 3/9    |   Mon   | | Lab 8: [Algorithmic Music](https://www.kaggle.com/code/gabrielferrer/lab-8-algorithmic-music) | Lab 7
+| 3/11   |   Weds  | 
+| 3/13   |   Fri   |  [Frequencies and Intervals](https://www.kaggle.com/gabrielferrer/frequencies-and-intervals) 
 |
-| 3/11   |   Mon   |
-| 3/13   |   Weds  | 
-| 3/15   |   Fri   |                            |                                                                  | Lab 9     |
+| 3/16   |   Mon   | | Lab 9: [Music Clustering](https://www.kaggle.com/code/gabrielferrer/lab-9-music-clustering) | Lab 8     |
+| 3/18   |   Weds  | 
+| 3/20   |   Fri   |                            |                                                                  | Lab 9     |
 |
-| 3/18   |   Mon   | **Spring Break - No class**
-| 3/20   |   Weds  | **Spring Break - No class**
-| 3/22   |   Fri   | **Spring Break - No class**
+| 3/23   |   Mon   | **Spring Break - No class**
+| 3/25   |   Weds  | **Spring Break - No class**
+| 3/27   |   Fri   | **Spring Break - No class**
 |
-| 3/25   |   Mon   |                            | Lab 10: [Analyzing Songs]({{site.baseurl}}/labs/songs.html)
-| 3/27   |   Weds  | 
-| 3/29   |   Fri   |                            | 
+| 3/30   |   Mon   |                            | Lab 10: [Analyzing Songs]({{site.baseurl}}/labs/songs.html)
+| 4/1    |   Weds  | 
+| 4/3    |   Fri   |                            | 
 |
-| 4/1    |   Mon   |                            | Lab 11: [Visual Novel]({{site.baseurl}}/labs/novel.html)  | Lab 10
-| 4/3    |   Weds  | 
-| 4/5    |   Fri   |                            |                                                                  |
+| 4/6    |   Mon   |                            | Lab 11: [Visual Novel]({{site.baseurl}}/labs/novel.html)  | Lab 10
+| 4/8    |   Weds  | 
+| 4/10   |   Fri   | **NO CLASS: Away at Conference** 
 |
-| 4/8    |   Mon   | **Eclipse - No class**     | 
-| 4/10   |   Weds  |               |    | Lab 11
-| 4/12   |   Fri   | Final Project      | [Final project]({{site.baseurl}}/projects/project.html): Proposal                      | 
+| 4/13   |   Mon   |      | 
+| 4/15   |   Weds  |               |    | Lab 11
+| 4/17   |   Fri   | Final Project      | [Final project]({{site.baseurl}}/projects/project.html): Proposal                      | 
 |
-| 4/15   |   Mon   |                            |                           | Final Project Proposal
-| 4/17   |   Weds  |                            |                           | 
-| 4/19   |   Fri   |                            |                           | 
+| 4/20   |   Mon   |                            |                           | Final Project Proposal
+| 4/22   |   Weds  |                            |                           | 
+| 4/24   |   Fri   |                            |                           | 
 |
-| 4/22   |   Mon   | No Class                   |                           | 
-| 4/24   |   Weds  |                            |                           | [Final project]({{site.baseurl}}/projects/project.html): Progress Report                             
-| 4/26   |   Fri   |                            |                           | [Final project]({{site.baseurl}}/projects/project.html): Progress Report |
-| 5/2    |   Thr 8:30-11:30 am|                                                                                    | [Final project]({{site.baseurl}}/projects/project.html): Presentation |
+| 4/27   |   Mon   |                            |                           | 
+| 4/29   |   Weds  |                            |                           | [Final project]({{site.baseurl}}/projects/project.html): Progress Report                             
+| 5/1    |   Fri   |                            |                           | [Final project]({{site.baseurl}}/projects/project.html): Progress Report |
+| 5/7    |   Thr 8:30-11:30 am|                                                                                    | [Final project]({{site.baseurl}}/projects/project.html): Presentation |
 
 # <a name="assessment">Assessment</a>
 
@@ -115,17 +116,17 @@ Each submission will be assessed as either **Complete**, **Partially Complete** 
 
 | #  | Lab                                                                                            | Assigned | Due      |
 |----|------------------------------------------------------------------------------------------------|----------|----------|
-| 1  | [Creating a Corpus]({{site.baseurl}}/labs/corpus.html)                                         | 1/17     | 1/19     |
-| 2  | [Summary Statistics](https://www.kaggle.com/gabrielferrer/csci-270-lab-2-summary-statistics)   | 1/19     | 1/26     |
-| 3  | [Document Clustering](https://www.kaggle.com/gabrielferrer/csci-270-lab-3-document-clustering) | 1/26     | 2/2      |
-| 4  | [Sentiment Analysis](https://www.kaggle.com/gabrielferrer/lab-4-sentiment-analysis)            | 2/2      | 2/9      |
-| 5  | [Topic Modeling](https://www.kaggle.com/gabrielferrer/lab-5-topic-modeling)                    | 2/9      | 2/16     |
-| 6  | [Algorithmic Art](https://www.kaggle.com/gabrielferrer/lab-6-algorithmic-art)                  | 2/16     | 2/23     |
-| 7  | [People in Paintings](https://www.kaggle.com/gabrielferrer/lab-7-people-in-paintings)          | 2/23     | 3/1      |
-| 8  | [Algorithmic Music](https://www.kaggle.com/code/gabrielferrer/lab-8-algorithmic-music)         | 3/1      | 3/8      |
-| 9  | [Music Clustering](https://www.kaggle.com/code/gabrielferrer/lab-9-music-clustering)           | 3/8      | 3/15     |
-|10  | Analyzing Songs                                                                                | 3/25     | 4/1      |
-|11  | [Visual Novel]({{site.baseurl}}/labs/novel.html)                                               | 4/1      | 4/10     |
+| 1  | [Creating a Corpus]({{site.baseurl}}/labs/corpus.html)                                         | 1/21     | 1/23     |
+| 2  | [Summary Statistics](https://www.kaggle.com/gabrielferrer/csci-270-lab-2-summary-statistics)   | 1/23     | 1/30     |
+| 3  | [Document Clustering](https://www.kaggle.com/gabrielferrer/csci-270-lab-3-document-clustering) | 1/30     | 2/6      |
+| 4  | [Sentiment Analysis](https://www.kaggle.com/gabrielferrer/lab-4-sentiment-analysis)            | 2/6      | 2/13     |
+| 5  | [Topic Modeling](https://www.kaggle.com/gabrielferrer/lab-5-topic-modeling)                    | 2/13     | 2/20     |
+| 6  | [Algorithmic Art](https://www.kaggle.com/gabrielferrer/lab-6-algorithmic-art)                  | 2/20     | 2/27     |
+| 7  | [People in Paintings](https://www.kaggle.com/gabrielferrer/lab-7-people-in-paintings)          | 2/27     | 3/6      |
+| 8  | [Algorithmic Music](https://www.kaggle.com/code/gabrielferrer/lab-8-algorithmic-music)         | 3/6      | 3/13     |
+| 9  | [Music Clustering](https://www.kaggle.com/code/gabrielferrer/lab-9-music-clustering)           | 3/13     | 3/17     |
+|10  | Analyzing Songs                                                                                | 3/30     | 4/6      |
+|11  | [Visual Novel]({{site.baseurl}}/labs/novel.html)                                               | 4/6      | 4/15     |
 
 ## <a name="finalproject">Final Project</a>
 
