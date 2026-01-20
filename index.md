@@ -76,15 +76,15 @@ Final project
 |
 | 3/9    |   Mon   | | Lab 8: [Algorithmic Music](https://www.kaggle.com/code/gabrielferrer/lab-8-algorithmic-music) | Lab 7
 | 3/11   |   Weds  | 
-| 3/13   |   Fri   |  [Frequencies and Intervals](https://www.kaggle.com/gabrielferrer/frequencies-and-intervals) 
+| 3/13   |   Fri   |  [Frequencies and Intervals](https://www.kaggle.com/gabrielferrer/frequencies-and-intervals) | Lab 9: [Music Clustering](https://www.kaggle.com/code/gabrielferrer/lab-9-music-clustering)
 |
-| 3/16   |   Mon   | | Lab 9: [Music Clustering](https://www.kaggle.com/code/gabrielferrer/lab-9-music-clustering) | Lab 8     |
+| 3/16   |   Mon   | **NO CLASS: Off-campus Appointment** | | Lab 8     |
 | 3/18   |   Weds  | 
 | 3/20   |   Fri   |                            |                                                                  | Lab 9     |
 |
-| 3/23   |   Mon   | **Spring Break - No class**
-| 3/25   |   Weds  | **Spring Break - No class**
-| 3/27   |   Fri   | **Spring Break - No class**
+| 3/23   |   Mon   | **NO CLASS: Spring Break**
+| 3/25   |   Weds  | **NO CLASS: Spring Break**
+| 3/27   |   Fri   | **NO CLASS: Spring Break**
 |
 | 3/30   |   Mon   |                            | Lab 10: [Analyzing Songs]({{site.baseurl}}/labs/songs.html)
 | 4/1    |   Weds  | 
