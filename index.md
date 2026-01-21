@@ -46,7 +46,7 @@ Final project
 
 | Date   |   Day   |   Topic/Activity           |   Assigned                                                       |   Due     |
 |  ---   |   ---   |        ---                 |     ---                                                          |   ---     |
-| 1/21   |   Weds  |  Introduction              | [Survey](https://forms.gle/VLRVHjUAisWP5R9J8)<br>Lab 1: [Creating a Corpus]({{site.baseurl}}/labs/corpus.html)
+| 1/21   |   Weds  |  Introduction              | [Survey](https://docs.google.com/forms/d/e/1FAIpQLSfFYzOOUaE3CCT3ocnDDentzhdEujBtAPeywT_SukFLyvKJxg/viewform)<br>Lab 1: [Creating a Corpus]({{site.baseurl}}/labs/corpus.html)
 | 1/23   |   Fri   |  [Python Encodings](https://realpython.com/python-encodings-guide/)<br>[The Great Newline Schism](https://blog.codinghorror.com/the-great-newline-schism/)<br>[Unicode](https://home.unicode.org/)<br>[UTF-8](https://en.wikipedia.org/wiki/UTF-8)<br>[Texting in Ancient Mayan Hieroglyphs](https://www.neh.gov/humanities/2018/winter/feature/texting-in-ancient-mayan-hieroglyphs) | Lab 2: [Summary Statistics](https://www.kaggle.com/gabrielferrer/csci-270-lab-2-summary-statistics) | Lab 1     |
 |
 | 1/26   |   Mon   |  [Generators and Comprehensions](https://www.pythonlikeyoumeanit.com/Module2_EssentialsOfPython/Generators_and_Comprehensions.html)<br>[Zipf's Law](https://en.wikipedia.org/wiki/Zipf%27s_law)<br>[*hapax legomenon*](https://en.wikipedia.org/wiki/Hapax_legomenon)<br>[Markdown](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html)
@@ -96,7 +96,7 @@ Final project
 |
 | 4/13   |   Mon   |      | 
 | 4/15   |   Weds  |               |    | Lab 11
-| 4/17   |   Fri   | Final Project      | [Final project]({{site.baseurl}}/projects/project.html): Proposal                      | 
+| 4/17   |   Fri   | Final Project      | [Final project]({{site.baseurl}}/projects/project.html): Proposal | 
 |
 | 4/20   |   Mon   |                            |                           | Final Project Proposal
 | 4/22   |   Weds  |                            |                           | 
@@ -112,7 +112,9 @@ Final project
 ## <a name="labs">Labs</a>
 
 A total of 11 labs will be assigned throughout the semester, approximately one lab per week. 
-Each submission will be assessed as either **Complete**, **Partially Complete** or **Missing**. The criteria for these assessments will be given for each lab.
+Each submission will be assessed as **Level 1**, **Level 2**, or **Level 3**. The criteria for 
+each level of credit will be given for each lab. Furthermore, submitting a solution by the specified
+due date earns one additional level of credit.
 
 | #  | Lab                                                                                            | Assigned | Due      |
 |----|------------------------------------------------------------------------------------------------|----------|----------|
@@ -125,7 +127,7 @@ Each submission will be assessed as either **Complete**, **Partially Complete** 
 | 7  | [People in Paintings](https://www.kaggle.com/gabrielferrer/lab-7-people-in-paintings)          | 2/27     | 3/6      |
 | 8  | [Algorithmic Music](https://www.kaggle.com/code/gabrielferrer/lab-8-algorithmic-music)         | 3/6      | 3/13     |
 | 9  | [Music Clustering](https://www.kaggle.com/code/gabrielferrer/lab-9-music-clustering)           | 3/13     | 3/17     |
-|10  | Analyzing Songs                                                                                | 3/30     | 4/6      |
+|10  | [Analyzing Songs]({{site.baseurl}}/labs/songs.html)                                            | 3/30     | 4/6      |
 |11  | [Visual Novel]({{site.baseurl}}/labs/novel.html)                                               | 4/6      | 4/15     |
 
 ## <a name="finalproject">Final Project</a>
@@ -141,40 +143,57 @@ Either form of project will require submitting the following:
 * A paper, either analyzing your results or reflecting upon your creative work.
 * All code used in creating the project, sufficient to digitally reproduce your work.
 
-## Tokens
+The final project will be assessed as follows:
+* If you complete all activities you described in the project proposal as approved by the instructor,
+  the project receives Level 2 credit.
+  * If the proposed goals seem unrealistic, they may be renegotiated at any time up to 24 hours prior 
+    to the final exam period.
+* A sincere attempt at completing those goals receives Level 1 credit.
+* Submitting the proposal on-time earns one additional credit.
+* Giving a progress report earns a second additional credit. 
+* Delivering a satisfactory final presentation earns a third additional credit.
 
-Each student begins the semester with **six tokens**. 
-* Send Dr. Ferrer a message on Teams to spend a token.
-* Students may **spend** tokens as follows:
-  * Spend **one** token to submit a revised version of an assignment, in the event the assignment is not Complete.
-  * Spend **two** tokens to request an extension on an assignment deadline. 
-    * When requesting an extension, specify the new deadline that you think will suffice.
-    * Most deadline requests will be approved, but the instructor reserves the right to limit extensions if he deems them unreasonable.
-  * Spend **three** tokens to submit an assignment after its deadline (including extended deadlines).
-* To earn additional tokens:
-  * Earn **one** token by booking and attending an office hours appointment. 
-    * A student may earn up to **one token per week** from attending office hours, and a maximum of **six** tokens over the course of 
-      the semester.
-  * Earn **four** tokens by creating a 2-4 minute video educating a viewer about a concept from the course.
-* Students may not go into token debt - to spend tokens, a student must have a positive balance.
+## Formative Assessments
 
-## <a name="grading">Specifications Grading</a>
+* After completing groups of labs at Level 2 or higher, a student is expected to
+  undertake a **formative assessment** by visiting the instructor's office
+  hours for a demonstration of understanding.
+* A Level 1 assessment demonstrates some understanding of the topic but
+  with significant gaps.
+* A Level 2 assessment demonstrates full expected understanding of the topic.
+* Each assessment earns from 1 to 3 assessment credits
+  * One credit for each level achieved.
+  * One additional credit for assessing on or before the deadline.
+* If a student receives a Level 1 assessment, they are welcome to schedule a second
+  formative assessment to attempt to achieve Level 2 based on feedback from the
+  assessment.
+* There are five assessments, yielding a total of 15 available assessment credits.
 
-* To earn an A in the course, a student will:
-  * **Complete** the final project
-  * **Complete** all 11 labs
-* To earn a B in the course, a student will:
-  * One of the following:
-    * **Complete** the final project and a minimum of eight labs, and at least **Partially Complete** a minimum of two more labs.
-	* **Partially Complete** the final project, **Complete** all 11 labs
-* To earn a C in the course, a student will:
-  * One of the following:
-    * **Complete** the final project and a minimum of five labs, and at least **Partially Complete** a minimum of two more labs.
-    * **Partially Complete** the final project and a minimum of eight labs, and at least **Partially Complete** a minimum of two more labs.
-    * **Complete** all 11 labs
-* To earn a D in the course, a student will:
-  * One of the following:
-    * **Complete** the final project and a minimum of three labs, and at least **Partially Complete** a minimum of one more lab.
-    * **Partially Complete** the final project and a minimum of five labs, and at least **Partially Complete** a minimum of two more labs.
-    * **Complete** a minimum of eight labs, and at least **Partially Complete** a minimum of two more labs.
-  
+| Assessment | Lab Group     | Deadline       |
+| ----------:|---------------|----------------|
+| 1          | Labs 1, 2, 3  | **F 27 Feb**   |
+| 2          | Labs 4, 5     | **F 6 March**  |
+| 3          | Labs 6, 7     | **F 20 March** |
+| 4          | Labs 8, 9, 10 | **M 20 April** |
+| 5          | Lab 11        | **W 29 April** |
+
+
+## <a name="grading">Course Grade</a>
+
+* To earn an A:
+  * Earn at least 41 lab credits.
+    * Earn at least Level 2 credit on every lab.
+  * Earn at least 13 assessment credits.
+    * Earn Level 2 credit on every assessment.
+  * Earn all six possible final project credits.
+* To earn a B:
+  * Earn at least 33 lab credits.
+  * Earn at least 11 assessment credits.
+  * Earn at least 5 final project credits.
+* To earn a C:
+  * Earn at least 25 lab credits.
+  * Earn at least 9 assessment credits.
+  * Earn at least 4 final project credits.
+* To earn a D:
+  * Earn at least 17 lab credits.
+  * Earn at least 7 assessment credits.
