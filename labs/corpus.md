@@ -86,6 +86,9 @@ Submit your answers to these reflection questions in a PDF document via Teams. W
 (4 questions each), two visual-art submissions (3 questions each), and two musical submissions (3 questions 
 each), you should answer a total of 20 questions.
 
+This document should also contain your Kaggle user id. This will be employed to add you as a collaborator
+on each of the class corpus data sets.
+
 # What to Hand In
 
 * Answers to the reflection questions
