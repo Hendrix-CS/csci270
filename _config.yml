@@ -97,9 +97,6 @@ resources:
   - name: Kaggle Kernels
     image: assets/images/kaggle.png
     url: https://www.kaggle.com/kernels
-  - name: Context Free Art
-    image: assets/images/context_free_art.PNG
-    url: https://www.contextfreeart.org/
   - name: OpenCV
     image: assets/images/opencv.png
     url: https://opencv.org/
