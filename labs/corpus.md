@@ -21,9 +21,9 @@ repositories of freely available materials are provided below.
 
 ## Poem
 
-Find a small poem written in English that holds meaning for you. You might find
-[Public Domain Poetry](https://www.public-domain-poetry.com) useful for this 
-purpose.
+Find a small poem originally written in English that holds meaning for you. 
+You might find [Public Domain Poetry](https://www.public-domain-poetry.com) 
+useful for this purpose.
 
 Save your poem as a plain text document with a short, meaningful file
 name. (with file extension `.txt`) Your file size for this poem should
@@ -51,7 +51,7 @@ can assist with this conversion.
 ## Images
 
 Find two images of paintings (as described below) that have meaning to you. Each 
-image should be stored in either PNG or JPEG format. Each file must be at least 640x400 pixels in size.
+image should be stored in PNG format. Each file must be at least 640x400 pixels in size.
 
 The first image should be a painted portrait. The face should be fully visible,
 with two eyes, a nose, and a mouth visible in particular.
@@ -82,13 +82,24 @@ For each of your selections, answer the following questions:
 -   Formulate a research question you hope to answer by analyzing this
     selection computationally.
 	
-Submit your answers to these reflection questions through the `Creating a Corpus` quiz in Teams.
+Submit your answers to these reflection questions in a PDF document via Teams. With two textual submissions 
+(4 questions each), two visual-art submissions (3 questions each), and two musical submissions (3 questions 
+each), you should answer a total of 20 questions.
 
 # What to Hand In
 
-* Answer the questions above in the Teams Assignment.
-* Upload your selections to the appropriate Kaggle data set.
-  * For each item, use a filename describing it in a few words, ending with your last name. Separate the words 
-    with underscores. For example, I uploaded *The Brothers Karamazov* by Fyodor Dostoevesky. I used
-    the filename `karamazov_dostoevsky_ferrer.txt`. 
+* Answers to the reflection questions
+* Three UTF-8 text documents
+  * Poem
+  * Novel
+  * Song lyrics
+* Two images in PNG format
+  * Portrait
+  * Landscape
+* Two music recordings in `mp3` format
+  * Vocal Music
+  * Instrumental Music
+* For each item, use a filename describing it in a few words, ending with your last name. Separate the words 
+    with underscores. For example, I uploaded *The Hobbit* by Fyodor Dostoevesky. I used
+    the filename `tolkien_hobbit_ferrer.txt`. 
 
