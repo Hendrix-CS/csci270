@@ -18,25 +18,6 @@ Upon completing this course, my goal is for you to be able to:
 * Measure and visualize similarity of digital creative works.
 * Employ algorithmic structures to synthesize original digital creative works.
 
-<!-- Notes for next time
-
-Move to a Level structure for each assignment.
-* Level 1, 2, and 3 for each one.
-  * Achieving Level 1 should be really easy!
-* Also work in an on-time bonus
-* Lab 1 has only one level - it is all or nothing - 2 credits
-* Labs 2-11 each have three levels - 4 credits each - 40 credits
-* 42 total credits - grades would be:
-  * A: 39-42 (allows three late/less complete submissions - must still do something for every lab)
-  * B: 31-38
-  * C: 23-30
-  * D: 15-22
-  
-Final project
-* If you do everything you state, it is complete
-* If you fall short, partially complete
-* Goals are negotiable right up to submission
--->
 
 ## <a name="resources">Resources</a>
 
@@ -108,6 +89,20 @@ Final project
 | 5/7    |   Thr 8:30-11:30 am|                                                                                    | [Final project]({{site.baseurl}}/projects/project.html): Presentation |
 
 # <a name="assessment">Assessment</a>
+
+## Generative AI
+
+Use of generative AI to create (or help create) a solution to any class assignment is 
+**forbidden**. This includes code, natural-language text responses to discussion 
+questions, visual art, and music. Any such usage is considered plagiarism, is subject
+to Academic Integrity sanctions, and will be penalized, at a minimum, as loss of credit 
+on the assignment.
+
+Exceptions may be granted for particular assignments. In particular, there are some 
+potential final project topics where use of generative AI would be relevant and 
+interesting. In those cases, the use of generative AI will need to be agreed upon
+with the instructor at the project proposal stage.
+
 
 ## <a name="labs">Labs</a>
 
