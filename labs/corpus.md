@@ -103,3 +103,7 @@ each), you should answer a total of 20 questions.
     with underscores. For example, I uploaded *The Hobbit* by Fyodor Dostoevesky. I used
     the filename `tolkien_hobbit_ferrer.txt`. 
 
+# Assessment
+* Level 1: All files submitted
+* Level 2: All reflection questions answered at least briefly
+* Level 3: The answers to most of the reflection questions demonstrate significant thought or insight
