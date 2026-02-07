@@ -36,7 +36,7 @@ Upon completing this course, my goal is for you to be able to:
 |
 | 2/2    |   Mon   |  [Cosine Similarity](https://en.wikipedia.org/wiki/Cosine_similarity)<br>[UPGMA](https://en.wikipedia.org/wiki/UPGMA)
 | 2/4    |   Weds  | [Word2Vec](https://wiki.pathmind.com/word2vec)
-| 2/6    |   Fri   | [TextRank](https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf) | Lab 4: [Finding Meaning](https://www.kaggle.com/code/gabrielferrer/revised-csci-270-lab-4-finding-mean)                                            | Lab 3     |
+| 2/6    |   Fri   | [TextRank](https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf) | Lab 4: [Finding Meaning](https://www.kaggle.com/code/gabrielferrer/revised-csci-270-lab-4-finding-meaning)                                            | Lab 3     |
 |
 | 2/9    |   Mon   | [VADER](https://www.researchgate.net/publication/275828927_VADER_A_Parsimonious_Rule-based_Model_for_Sentiment_Analysis_of_Social_Media_Text) 
 | 2/11   |   Weds  | [BERT](https://arxiv.org/pdf/1810.04805.pdf)
