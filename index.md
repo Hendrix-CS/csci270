@@ -50,8 +50,7 @@ Upon completing this course, my goal is for you to be able to:
 | 2/25   |   Weds  | [OpenCV](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
 | 2/27   |   Fri   | [RetinaFace](https://arxiv.org/abs/1905.00641) 
 |
-| 3/2    |   Mon   | [DeepFace](https://research.facebook.com/publications/deepface-closing-the-gap-to-human-level-performance-in-face-verification/) | Lab 7: [People in Paintings](https://www.kaggle.com/gabrielferrer/lab-7-people-in-paintings) | Lab 6     |
-
+| 3/2    |   Mon   | [DeepFace](https://research.facebook.com/publications/deepface-closing-the-gap-to-human-level-performance-in-face-verification/) | Lab 7: [People in Paintings](https://www.kaggle.com/code/gabrielferrer/lab-7-faces-in-paintings) | Lab 6     |
 | 3/4    |   Weds  | [librosa](https://librosa.org/doc/latest/index.html)
 | 3/6    |   Fri   | [Sonic Pi Tutorial](https://sonic-pi.net/tutorial.html) <br> [Live Coding Education](https://sonic-pi.net/files/articles/Live-Coding-Education.pdf) <br> [Note to Frequency Chart](https://www.doctormix.com/docs/Note-To-Frequancy-Chart.jpg)
 |
