@@ -20,7 +20,7 @@ Either form of project will require submitting the following:
 
 The first step in your project is developing a proposal. The format differs
 somewhat for analytic and creative projects. Either way, the proposal is due 
-at the beginning of class on Friday, April 15. 
+at the beginning of class on Monday, April 20. 
 
 
 ## Proposal: Analytic Projects
@@ -70,19 +70,20 @@ Describe the software you plan to use to create your work.
 How do you plan to assess the degree to which your creative work meets 
 your goals for impact on its audience?
 
-## Progress Report
+## Progress Updates
 
-During the last week of classes, each student will give a progress report.
-Each progress report should consist of four PowerPoint style slides:
+On the four class days Weds 4/22, Fri 4/24, Mon 4/27, and Weds 4/29 we will have 
+final project updates in class. For each update, prepare four PowerPoint style slides:
 * Project Overview
 * Current Achievements
 * Challenges and Obstacles
-* Plan for Completion
+* Planned goals to achieve next
 
 
 ## Presentation
 
-You will give a 6 minute presentation during the final exam period for the course.
+You will give a 6 minute presentation during the final exam period for the course, 
+with up to 2 minutes to answer questions.
 
 Practice is strongly encouraged prior to your actual presentation. The
 best way to be comfortable with presenting in front of an audience is to
@@ -153,6 +154,18 @@ digitally reproduce your work. Code should be well-abstracted, stylistically
 clean, and easy to follow. Any Kaggle notebooks should be well-organized including 
 headers and Markdown blocks to denote the different sections of your analysis.
 
+## Grading Criteria
+It is possible to earn up to 7 final project credits.
+* 1 credit: Submit proposal on-time
+* 2 credits: Complete all activities described in project proposal
+  * If proposed activities seem unrealistic, they may be renegotiated
+    at any time up to 24 hours prior to the final exam period.
+  * If a sincere attempt is made to complete these activitie that falls
+    short of the proposed goals, the student will earn one credit.
+* 2 credits: Satisfactory final presentation
+* 2 credits: Present all four project updates
+  * 1 credit: Present at least two project updates
+
 ## Sample Project Topics
 
 ### Sample Analytic Project Topics
@@ -189,5 +202,5 @@ You might also consider an analytic-based project whose outcome is embedded in a
 - Create a feature-length (approximately 30 minutes play-through time) Visual Novel using Ren'Py.
 - Create an extended musical work (or a series of related smaller works) using Sonic Pi.
 - Give a Sonic Pi public live coding performance.
-- Create an elaborate piece of algorithmically sophisticated art using Context Free Art.
+- Create an elaborate piece of algorithmically sophisticated art.
 - Employ OpenCV to process one or more preexisting images in an artistic way to create new artworks.
