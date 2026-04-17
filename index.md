@@ -79,12 +79,12 @@ Upon completing this course, my goal is for you to be able to:
 | 4/17   |   Fri   | Final Project      | [Final project]({{site.baseurl}}/projects/project.html): Proposal | 
 |
 | 4/20   |   Mon   |                            |                           | Final Project Proposal
-| 4/22   |   Weds  |                            |                           | 
-| 4/24   |   Fri   |                            |                           | 
+| 4/22   |   Weds  |                            |                           | [Final project]({{site.baseurl}}/projects/project.html): Progress Update
+| 4/24   |   Fri   |                            |                           | [Final project]({{site.baseurl}}/projects/project.html): Progress Update
 |
-| 4/27   |   Mon   |                            |                           | 
-| 4/29   |   Weds  |                            |                           | [Final project]({{site.baseurl}}/projects/project.html): Progress Report                             
-| 5/1    |   Fri   |                            |                           | [Final project]({{site.baseurl}}/projects/project.html): Progress Report |
+| 4/27   |   Mon   |                            |                           | [Final project]({{site.baseurl}}/projects/project.html): Progress Update
+| 4/29   |   Weds  |                            |                           | [Final project]({{site.baseurl}}/projects/project.html): Progress Update                             
+| 5/1    |   Fri   |                            |                           |  |
 | 5/7    |   Thr 8:30-11:30 am|                                                                                    | [Final project]({{site.baseurl}}/projects/project.html): Presentation |
 
 # <a name="assessment">Assessment</a>
