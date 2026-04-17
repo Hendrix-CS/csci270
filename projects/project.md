@@ -158,9 +158,10 @@ headers and Markdown blocks to denote the different sections of your analysis.
 It is possible to earn up to 7 final project credits.
 * 1 credit: Submit proposal on-time
 * 2 credits: Complete all activities described in project proposal
+  * The six-page paper is considered to be one of the required activities.
   * If proposed activities seem unrealistic, they may be renegotiated
     at any time up to 24 hours prior to the final exam period.
-  * If a sincere attempt is made to complete these activitie that falls
+  * If a sincere attempt is made to complete these activities that falls
     short of the proposed goals, the student will earn one credit.
 * 2 credits: Satisfactory final presentation
 * 2 credits: Present all four project updates
