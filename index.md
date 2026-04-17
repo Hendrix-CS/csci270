@@ -184,7 +184,7 @@ It is possible to earn up to 7 final project credits.
 * To earn a B:
   * Earn at least 33 lab credits.
   * Earn at least 11 assessment credits.
-  * Earn at least 5 final project credits.
+  * Earn at least 6 final project credits.
 * To earn a C:
   * Earn at least 25 lab credits.
   * Earn at least 9 assessment credits.
